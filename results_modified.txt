@@ -1,0 +1,342 @@
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurement of dielectric constant of liquids by the use of microwave techniques
+X 1. 1828
+X 2. 553
+X 3. 1066
+X 4. 5160
+X 5. 3210
+X 6. 4301
+X 7. 7354
+X 8. 444
+X 9. 7737
+X 10. 8259
+X 11. 1830
+X 12. 4463
+X 13. 6438
+X 14. 7234
+X 15. 3010
+X 16. 3405
+X 17. 5662
+X 18. 1380
+X 19. 2224
+X 20. 4391
+X 21. 7230
+X 22. 7470
+X 23. 7623
+X 24. 690
+X 25. 3813
+Average Precision: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurement of dielectric constant of liquids by the use of microwave techniques
+X 0. 1828
+X 1. 553
+X 2. 1066
+X 3. 5160
+X 4. 3210
+X 5. 4301
+X 6. 7354
+X 7. 444
+X 8. 7737
+X 9. 8259
+Precision at k: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurement of dielectric constant of liquids by the use of microwave techniques
+X 1. 1828
+X 2. 553
+X 3. 1066
+X 4. 5160
+X 5. 3210
+X 6. 4301
+X 7. 7354
+X 8. 444
+X 9. 7737
+X 10. 8259
+X 11. 1830
+X 12. 4463
+X 13. 6438
+X 14. 7234
+X 15. 3010
+X 16. 3405
+X 17. 5662
+X 18. 1380
+X 19. 2224
+X 20. 4391
+X 21. 7230
+X 22. 7470
+X 23. 7623
+X 24. 690
+X 25. 3813
+Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurement of dielectric constant of liquids by the use of microwave techniques
+X 1. 553
+X 3. 5160
+X 5. 4301
+X 7. 444
+X 9. 8259
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mathematical analysis and design details of waveguide fed microwave radiations
+X 1. 5124
+X 2. 2284
+X 3. 3379
+X 4. 1605
+X 5. 8868
+X 6. 8989
+X 7. 3960
+X 8. 5486
+X 9. 4598
+X 10. 2674
+X 11. 4109
+X 12. 6671
+X 13. 6990
+X 14. 160
+X 15. 796
+X 16. 6766
+X 17. 6865
+X 18. 4341
+X 19. 5492
+X 20. 3272
+X 21. 4094
+X 22. 4725
+X 23. 155
+X 24. 2681
+X 25. 4927
+Average Precision: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mathematical analysis and design details of waveguide fed microwave radiations
+X 0. 5124
+X 1. 2284
+X 2. 3379
+X 3. 1605
+X 4. 8868
+X 5. 8989
+X 6. 3960
+X 7. 5486
+X 8. 4598
+X 9. 2674
+Precision at k: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mathematical analysis and design details of waveguide fed microwave radiations
+X 1. 5124
+X 2. 2284
+X 3. 3379
+X 4. 1605
+X 5. 8868
+X 6. 8989
+X 7. 3960
+X 8. 5486
+X 9. 4598
+X 10. 2674
+X 11. 4109
+X 12. 6671
+X 13. 6990
+X 14. 160
+X 15. 796
+X 16. 6766
+X 17. 6865
+X 18. 4341
+X 19. 5492
+X 20. 3272
+X 21. 4094
+X 22. 4725
+X 23. 155
+X 24. 2681
+X 25. 4927
+Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mathematical analysis and design details of waveguide fed microwave radiations
+X 1. 2284
+X 3. 1605
+X 5. 8989
+X 7. 5486
+X 9. 2674
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of digital computers in the design of band pass filters having given phase and attenuation characteristics
+X 1. 8563
+X 2. 9552
+X 3. 2458
+X 4. 5873
+X 5. 1599
+X 6. 5984
+X 7. 4079
+X 8. 5045
+  9. 7086
+X 10. 9183
+X 11. 5250
+X 12. 10039
+X 13. 5981
+  14. 3272
+X 15. 4080
+X 16. 7572
+X 17. 3631
+X 18. 10628
+X 19. 8567
+  20. 4833
+X 21. 9418
+  22. 5856
+X 23. 9793
+X 24. 8672
+X 25. 9698
+Average Precision: 0.14644660894660894
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of digital computers in the design of band pass filters having given phase and attenuation characteristics
+X 0. 8563
+X 1. 9552
+X 2. 2458
+X 3. 5873
+X 4. 1599
+X 5. 5984
+X 6. 4079
+X 7. 5045
+  8. 7086
+X 9. 9183
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of digital computers in the design of band pass filters having given phase and attenuation characteristics
+X 1. 8563
+X 2. 9552
+X 3. 2458
+X 4. 5873
+X 5. 1599
+X 6. 5984
+X 7. 4079
+X 8. 5045
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of digital computers in the design of band pass filters having given phase and attenuation characteristics
+X 1. 9552
+X 3. 5873
+X 5. 5984
+X 7. 5045
+X 9. 9183
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: systems of data coding for information transfer
+X 1. 8205
+X 2. 7654
+X 3. 8002
+X 4. 4820
+X 5. 4199
+X 6. 10805
+X 7. 4412
+X 8. 7697
+X 9. 4596
+X 10. 3452
+X 11. 7346
+X 12. 9796
+X 13. 7481
+X 14. 9949
+X 15. 5752
+X 16. 282
+X 17. 1956
+X 18. 6138
+X 19. 6448
+X 20. 9010
+X 21. 9708
+X 22. 10764
+X 23. 11397
+X 24. 2091
+X 25. 1925
+Average Precision: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: systems of data coding for information transfer
+X 0. 8205
+X 1. 7654
+X 2. 8002
+X 3. 4820
+X 4. 4199
+X 5. 10805
+X 6. 4412
+X 7. 7697
+X 8. 4596
+X 9. 3452
+Precision at k: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: systems of data coding for information transfer
+X 1. 8205
+X 2. 7654
+X 3. 8002
+X 4. 4820
+X 5. 4199
+X 6. 10805
+X 7. 4412
+X 8. 7697
+X 9. 4596
+X 10. 3452
+X 11. 7346
+X 12. 9796
+X 13. 7481
+X 14. 9949
+X 15. 5752
+X 16. 282
+X 17. 1956
+X 18. 6138
+X 19. 6448
+X 20. 9010
+X 21. 9708
+X 22. 10764
+X 23. 11397
+X 24. 2091
+X 25. 1925
+Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: systems of data coding for information transfer
+X 1. 7654
+X 3. 4820
+X 5. 10805
+X 7. 7697
+X 9. 3452
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of programs in engineering testing of computers
+X 1. 1599
+X 2. 6117
+Average Precision: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of programs in engineering testing of computers
+X 0. 1599
+X 1. 6117
+Exception in thread "main" java.lang.IndexOutOfBoundsException: Index: 2, Size: 2
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at edu.virginia.cs.evaluator.Evaluate.Prec(Evaluate.java:131)
+	at edu.virginia.cs.evaluator.Evaluate.evaluate(Evaluate.java:66)
+	at runners.Main.main(Main.java:80)

@@ -1,0 +1,1868 @@
+
+Scoring documents with Okapi BM25
+
+Query: measurement of dielectric constant of liquids by the use of microwave techniques
+Average Precision: 0.003683976133766921
+
+Scoring documents with Okapi BM25
+
+Query: measurement of dielectric constant of liquids by the use of microwave techniques
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: measurement of dielectric constant of liquids by the use of microwave techniques
+Reciprocal rank: 0.014084507042253521
+
+Scoring documents with Okapi BM25
+
+Query: measurement of dielectric constant of liquids by the use of microwave techniques
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: mathematical analysis and design details of waveguide fed microwave radiations
+Average Precision: 0.0014173355139803204
+
+Scoring documents with Okapi BM25
+
+Query: mathematical analysis and design details of waveguide fed microwave radiations
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: mathematical analysis and design details of waveguide fed microwave radiations
+Reciprocal rank: 0.00199203187250996
+
+Scoring documents with Okapi BM25
+
+Query: mathematical analysis and design details of waveguide fed microwave radiations
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: use of digital computers in the design of band pass filters having given phase and attenuation characteristics
+Average Precision: 0.02380686445004564
+
+Scoring documents with Okapi BM25
+
+Query: use of digital computers in the design of band pass filters having given phase and attenuation characteristics
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: use of digital computers in the design of band pass filters having given phase and attenuation characteristics
+Reciprocal rank: 0.07142857142857142
+
+Scoring documents with Okapi BM25
+
+Query: use of digital computers in the design of band pass filters having given phase and attenuation characteristics
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: systems of data coding for information transfer
+Average Precision: 0.07747694580406286
+
+Scoring documents with Okapi BM25
+
+Query: systems of data coding for information transfer
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: systems of data coding for information transfer
+Reciprocal rank: 0.25
+
+Scoring documents with Okapi BM25
+
+Query: systems of data coding for information transfer
+ndcg: 0.16958010263680806
+
+Scoring documents with Okapi BM25
+
+Query: use of programs in engineering testing of computers
+Average Precision: 0.006080456157730839
+
+Scoring documents with Okapi BM25
+
+Query: use of programs in engineering testing of computers
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: use of programs in engineering testing of computers
+Reciprocal rank: 0.021739130434782608
+
+Scoring documents with Okapi BM25
+
+Query: use of programs in engineering testing of computers
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: number representation in binary machines
+Average Precision: 0.2317316839681129
+
+Scoring documents with Okapi BM25
+
+Query: number representation in binary machines
+Precision at k: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: number representation in binary machines
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: number representation in binary machines
+ndcg: 0.13886244387355454
+
+Scoring documents with Okapi BM25
+
+Query: secondary emission of electrons by positive ion bombardment of the cathode
+Average Precision: 0.12206101900403298
+
+Scoring documents with Okapi BM25
+
+Query: secondary emission of electrons by positive ion bombardment of the cathode
+Precision at k: 0.7
+
+Scoring documents with Okapi BM25
+
+Query: secondary emission of electrons by positive ion bombardment of the cathode
+Reciprocal rank: 0.5
+
+Scoring documents with Okapi BM25
+
+Query: secondary emission of electrons by positive ion bombardment of the cathode
+ndcg: 0.19903302862423014
+
+Scoring documents with Okapi BM25
+
+Query: measurement of plasma temperatures in arc discharge using shock wave techniques
+Average Precision: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: measurement of plasma temperatures in arc discharge using shock wave techniques
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: measurement of plasma temperatures in arc discharge using shock wave techniques
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: measurement of plasma temperatures in arc discharge using shock wave techniques
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: characteristics of the single electrode discharge in the rare gases at low pressures
+Average Precision: 0.005004589090367871
+
+Scoring documents with Okapi BM25
+
+Query: characteristics of the single electrode discharge in the rare gases at low pressures
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: characteristics of the single electrode discharge in the rare gases at low pressures
+Reciprocal rank: 0.005494505494505495
+
+Scoring documents with Okapi BM25
+
+Query: characteristics of the single electrode discharge in the rare gases at low pressures
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: methods of calculating instantaneous power dissipation in reactive circuits
+Average Precision: 0.021167554380553295
+
+Scoring documents with Okapi BM25
+
+Query: methods of calculating instantaneous power dissipation in reactive circuits
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: methods of calculating instantaneous power dissipation in reactive circuits
+Reciprocal rank: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: methods of calculating instantaneous power dissipation in reactive circuits
+ndcg: 0.0893056203468372
+
+Scoring documents with Okapi BM25
+
+Query: the effect of oxidation on circuit breaker contacts
+Average Precision: 0.3265259210366444
+
+Scoring documents with Okapi BM25
+
+Query: the effect of oxidation on circuit breaker contacts
+Precision at k: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: the effect of oxidation on circuit breaker contacts
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: the effect of oxidation on circuit breaker contacts
+ndcg: 0.13905617951077562
+
+Scoring documents with Okapi BM25
+
+Query: temperature independent methods for tuning highly stable high frequency oscillators
+Average Precision: 0.11349827340958565
+
+Scoring documents with Okapi BM25
+
+Query: temperature independent methods for tuning highly stable high frequency oscillators
+Precision at k: 0.3
+
+Scoring documents with Okapi BM25
+
+Query: temperature independent methods for tuning highly stable high frequency oscillators
+Reciprocal rank: 0.25
+
+Scoring documents with Okapi BM25
+
+Query: temperature independent methods for tuning highly stable high frequency oscillators
+ndcg: 0.10238957591725195
+
+Scoring documents with Okapi BM25
+
+Query: mathematical expressions and graphs for the design of transistorised tuned pass band amplifiers
+Average Precision: 0.09364412668419927
+
+Scoring documents with Okapi BM25
+
+Query: mathematical expressions and graphs for the design of transistorised tuned pass band amplifiers
+Precision at k: 0.4
+
+Scoring documents with Okapi BM25
+
+Query: mathematical expressions and graphs for the design of transistorised tuned pass band amplifiers
+Reciprocal rank: 0.25
+
+Scoring documents with Okapi BM25
+
+Query: mathematical expressions and graphs for the design of transistorised tuned pass band amplifiers
+ndcg: 0.10990463002567742
+
+Scoring documents with Okapi BM25
+
+Query: synthesis of filters having high attenuation characteristics using a block diagram approach
+Average Precision: 0.04573541960428584
+
+Scoring documents with Okapi BM25
+
+Query: synthesis of filters having high attenuation characteristics using a block diagram approach
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: synthesis of filters having high attenuation characteristics using a block diagram approach
+Reciprocal rank: 0.06666666666666667
+
+Scoring documents with Okapi BM25
+
+Query: synthesis of filters having high attenuation characteristics using a block diagram approach
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: voltage current relationships in networks of nonlinear elements connected in parallel
+Average Precision: 0.09970142650692199
+
+Scoring documents with Okapi BM25
+
+Query: voltage current relationships in networks of nonlinear elements connected in parallel
+Precision at k: 0.3
+
+Scoring documents with Okapi BM25
+
+Query: voltage current relationships in networks of nonlinear elements connected in parallel
+Reciprocal rank: 0.3333333333333333
+
+Scoring documents with Okapi BM25
+
+Query: voltage current relationships in networks of nonlinear elements connected in parallel
+ndcg: 0.14372546950055823
+
+Scoring documents with Okapi BM25
+
+Query: methods of approximating the frequency phase relationships for resistive inductive and resistive capacitive circuits
+Average Precision: 0.022611212129739877
+
+Scoring documents with Okapi BM25
+
+Query: methods of approximating the frequency phase relationships for resistive inductive and resistive capacitive circuits
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: methods of approximating the frequency phase relationships for resistive inductive and resistive capacitive circuits
+Reciprocal rank: 0.3333333333333333
+
+Scoring documents with Okapi BM25
+
+Query: methods of approximating the frequency phase relationships for resistive inductive and resistive capacitive circuits
+ndcg: 0.07563222788297667
+
+Scoring documents with Okapi BM25
+
+Query: observations of rapid fluctuations in the earths magnetic field and their relation to the propagation of hydromagnetic waves in the exosphere
+Average Precision: 0.010097481742391641
+
+Scoring documents with Okapi BM25
+
+Query: observations of rapid fluctuations in the earths magnetic field and their relation to the propagation of hydromagnetic waves in the exosphere
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: observations of rapid fluctuations in the earths magnetic field and their relation to the propagation of hydromagnetic waves in the exosphere
+Reciprocal rank: 0.16666666666666666
+
+Scoring documents with Okapi BM25
+
+Query: observations of rapid fluctuations in the earths magnetic field and their relation to the propagation of hydromagnetic waves in the exosphere
+ndcg: 0.050216616680524157
+
+Scoring documents with Okapi BM25
+
+Query: diurnal variations of fluctuations in the earths magnetic field
+Average Precision: 0.081693161904084
+
+Scoring documents with Okapi BM25
+
+Query: diurnal variations of fluctuations in the earths magnetic field
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: diurnal variations of fluctuations in the earths magnetic field
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: diurnal variations of fluctuations in the earths magnetic field
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: spherical harmonic analysis of the earths magnetic field
+Average Precision: 0.004316118911609888
+
+Scoring documents with Okapi BM25
+
+Query: spherical harmonic analysis of the earths magnetic field
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: spherical harmonic analysis of the earths magnetic field
+Reciprocal rank: 0.03333333333333333
+
+Scoring documents with Okapi BM25
+
+Query: spherical harmonic analysis of the earths magnetic field
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: derivation of the components of the electrical conductivity in the upper atmosphere
+Average Precision: 0.0012748374639929214
+
+Scoring documents with Okapi BM25
+
+Query: derivation of the components of the electrical conductivity in the upper atmosphere
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: derivation of the components of the electrical conductivity in the upper atmosphere
+Reciprocal rank: 2.3952095808383233E-4
+
+Scoring documents with Okapi BM25
+
+Query: derivation of the components of the electrical conductivity in the upper atmosphere
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the effects of solar flares on the absorption of cosmic radio noise in the ionosphere
+Average Precision: 0.01514255372719901
+
+Scoring documents with Okapi BM25
+
+Query: the effects of solar flares on the absorption of cosmic radio noise in the ionosphere
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the effects of solar flares on the absorption of cosmic radio noise in the ionosphere
+Reciprocal rank: 0.07142857142857142
+
+Scoring documents with Okapi BM25
+
+Query: the effects of solar flares on the absorption of cosmic radio noise in the ionosphere
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: determination of the current systems in the upper atmosphere during magnetic storms
+Average Precision: 0.010482245019412351
+
+Scoring documents with Okapi BM25
+
+Query: determination of the current systems in the upper atmosphere during magnetic storms
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: determination of the current systems in the upper atmosphere during magnetic storms
+Reciprocal rank: 0.125
+
+Scoring documents with Okapi BM25
+
+Query: determination of the current systems in the upper atmosphere during magnetic storms
+ndcg: 0.02157479863151798
+
+Scoring documents with Okapi BM25
+
+Query: observations of the sun during eclipses giving the distribution of sources on the disc in the microwave range
+Average Precision: 0.0014353137039564037
+
+Scoring documents with Okapi BM25
+
+Query: observations of the sun during eclipses giving the distribution of sources on the disc in the microwave range
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: observations of the sun during eclipses giving the distribution of sources on the disc in the microwave range
+Reciprocal rank: 5.313496280552603E-4
+
+Scoring documents with Okapi BM25
+
+Query: observations of the sun during eclipses giving the distribution of sources on the disc in the microwave range
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: observations of the sun using radio interferometers
+Average Precision: 0.0031812701554658337
+
+Scoring documents with Okapi BM25
+
+Query: observations of the sun using radio interferometers
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: observations of the sun using radio interferometers
+Reciprocal rank: 0.005376344086021506
+
+Scoring documents with Okapi BM25
+
+Query: observations of the sun using radio interferometers
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: equations governing the propagation of electromagnetic and hydromagnetic waves in the solar corona
+Average Precision: 0.006810859633342321
+
+Scoring documents with Okapi BM25
+
+Query: equations governing the propagation of electromagnetic and hydromagnetic waves in the solar corona
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: equations governing the propagation of electromagnetic and hydromagnetic waves in the solar corona
+Reciprocal rank: 0.016666666666666666
+
+Scoring documents with Okapi BM25
+
+Query: equations governing the propagation of electromagnetic and hydromagnetic waves in the solar corona
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: estimates of the density of ionization and temperature in the solar corona
+Average Precision: 0.004365276280757707
+
+Scoring documents with Okapi BM25
+
+Query: estimates of the density of ionization and temperature in the solar corona
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: estimates of the density of ionization and temperature in the solar corona
+Reciprocal rank: 0.016129032258064516
+
+Scoring documents with Okapi BM25
+
+Query: estimates of the density of ionization and temperature in the solar corona
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: please send abstracts on the source spectra of lightning discharges
+Average Precision: 0.15714369209027157
+
+Scoring documents with Okapi BM25
+
+Query: please send abstracts on the source spectra of lightning discharges
+Precision at k: 0.4
+
+Scoring documents with Okapi BM25
+
+Query: please send abstracts on the source spectra of lightning discharges
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: please send abstracts on the source spectra of lightning discharges
+ndcg: 0.15726227605394488
+
+Scoring documents with Okapi BM25
+
+Query: the effect of small distortions in the surface of a cavity resonator
+Average Precision: 5.472628649862844E-4
+
+Scoring documents with Okapi BM25
+
+Query: the effect of small distortions in the surface of a cavity resonator
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the effect of small distortions in the surface of a cavity resonator
+Reciprocal rank: 2.1119324181626187E-4
+
+Scoring documents with Okapi BM25
+
+Query: the effect of small distortions in the surface of a cavity resonator
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the determination of the orbits of individual meteors by radio methods
+Average Precision: 0.005195057349973598
+
+Scoring documents with Okapi BM25
+
+Query: the determination of the orbits of individual meteors by radio methods
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the determination of the orbits of individual meteors by radio methods
+Reciprocal rank: 0.023809523809523808
+
+Scoring documents with Okapi BM25
+
+Query: the determination of the orbits of individual meteors by radio methods
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the determination of ion masses in the ionosphere by the study of back scattered radio waves
+Average Precision: 0.03636050456394491
+
+Scoring documents with Okapi BM25
+
+Query: the determination of ion masses in the ionosphere by the study of back scattered radio waves
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: the determination of ion masses in the ionosphere by the study of back scattered radio waves
+Reciprocal rank: 0.25
+
+Scoring documents with Okapi BM25
+
+Query: the determination of ion masses in the ionosphere by the study of back scattered radio waves
+ndcg: 0.13743816645714543
+
+Scoring documents with Okapi BM25
+
+Query: theoretical studies of the source of high frequency radio waves emitted from the planet jupiter
+Average Precision: 0.09879852035545818
+
+Scoring documents with Okapi BM25
+
+Query: theoretical studies of the source of high frequency radio waves emitted from the planet jupiter
+Precision at k: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: theoretical studies of the source of high frequency radio waves emitted from the planet jupiter
+Reciprocal rank: 0.5
+
+Scoring documents with Okapi BM25
+
+Query: theoretical studies of the source of high frequency radio waves emitted from the planet jupiter
+ndcg: 0.296666849261503
+
+Scoring documents with Okapi BM25
+
+Query: simultaneous observations of whistlers and lightning discharges
+Average Precision: 0.3228674104810561
+
+Scoring documents with Okapi BM25
+
+Query: simultaneous observations of whistlers and lightning discharges
+Precision at k: 0.4
+
+Scoring documents with Okapi BM25
+
+Query: simultaneous observations of whistlers and lightning discharges
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: simultaneous observations of whistlers and lightning discharges
+ndcg: 0.3667824559430961
+
+Scoring documents with Okapi BM25
+
+Query: variations in the height of reflection of low or very low frequency radio waves in the period before ground sunrise
+Average Precision: 5.231792356840548E-4
+
+Scoring documents with Okapi BM25
+
+Query: variations in the height of reflection of low or very low frequency radio waves in the period before ground sunrise
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: variations in the height of reflection of low or very low frequency radio waves in the period before ground sunrise
+Reciprocal rank: 5.497526113249038E-4
+
+Scoring documents with Okapi BM25
+
+Query: variations in the height of reflection of low or very low frequency radio waves in the period before ground sunrise
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the use of ionospheric cross modulation in the determination of ionospheric electron densities and collision frequencies
+Average Precision: 0.002251112894918573
+
+Scoring documents with Okapi BM25
+
+Query: the use of ionospheric cross modulation in the determination of ionospheric electron densities and collision frequencies
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the use of ionospheric cross modulation in the determination of ionospheric electron densities and collision frequencies
+Reciprocal rank: 0.01020408163265306
+
+Scoring documents with Okapi BM25
+
+Query: the use of ionospheric cross modulation in the determination of ionospheric electron densities and collision frequencies
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: measurements of ionospheric drifts near the equator
+Average Precision: 0.006805805525585989
+
+Scoring documents with Okapi BM25
+
+Query: measurements of ionospheric drifts near the equator
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: measurements of ionospheric drifts near the equator
+Reciprocal rank: 0.03333333333333333
+
+Scoring documents with Okapi BM25
+
+Query: measurements of ionospheric drifts near the equator
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the use of analogue computers in upper atmosphere theory
+Average Precision: 0.0012934748533628376
+
+Scoring documents with Okapi BM25
+
+Query: the use of analogue computers in upper atmosphere theory
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the use of analogue computers in upper atmosphere theory
+Reciprocal rank: 0.001838235294117647
+
+Scoring documents with Okapi BM25
+
+Query: the use of analogue computers in upper atmosphere theory
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the use of lunar radio reflections in investigations of the nature of the moons surface
+Average Precision: 0.011245706005160743
+
+Scoring documents with Okapi BM25
+
+Query: the use of lunar radio reflections in investigations of the nature of the moons surface
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: the use of lunar radio reflections in investigations of the nature of the moons surface
+Reciprocal rank: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: the use of lunar radio reflections in investigations of the nature of the moons surface
+ndcg: 0.05296224477777098
+
+Scoring documents with Okapi BM25
+
+Query: what references on comparison between ground level and high altitude balloon cosmic ray results
+Average Precision: 0.22768845478904076
+
+Scoring documents with Okapi BM25
+
+Query: what references on comparison between ground level and high altitude balloon cosmic ray results
+Precision at k: 0.3
+
+Scoring documents with Okapi BM25
+
+Query: what references on comparison between ground level and high altitude balloon cosmic ray results
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: what references on comparison between ground level and high altitude balloon cosmic ray results
+ndcg: 0.1273966772892526
+
+Scoring documents with Okapi BM25
+
+Query: what references on model experiments in aurora
+Average Precision: 0.08090645017652283
+
+Scoring documents with Okapi BM25
+
+Query: what references on model experiments in aurora
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: what references on model experiments in aurora
+Reciprocal rank: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: what references on model experiments in aurora
+ndcg: 0.14606834984270642
+
+Scoring documents with Okapi BM25
+
+Query: what references on integral spectrum of primary cosmic rays
+Average Precision: 0.2646112450804417
+
+Scoring documents with Okapi BM25
+
+Query: what references on integral spectrum of primary cosmic rays
+Precision at k: 0.5
+
+Scoring documents with Okapi BM25
+
+Query: what references on integral spectrum of primary cosmic rays
+Reciprocal rank: 0.3333333333333333
+
+Scoring documents with Okapi BM25
+
+Query: what references on integral spectrum of primary cosmic rays
+ndcg: 0.26273317431838267
+
+Scoring documents with Okapi BM25
+
+Query: ferromagnetic techniques for computer stores
+Average Precision: 0.08607306910510715
+
+Scoring documents with Okapi BM25
+
+Query: ferromagnetic techniques for computer stores
+Precision at k: 0.3
+
+Scoring documents with Okapi BM25
+
+Query: ferromagnetic techniques for computer stores
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: ferromagnetic techniques for computer stores
+ndcg: 0.072096163906574
+
+Scoring documents with Okapi BM25
+
+Query: solution of differential equations by computer
+Average Precision: 0.19952238947338358
+
+Scoring documents with Okapi BM25
+
+Query: solution of differential equations by computer
+Precision at k: 0.4
+
+Scoring documents with Okapi BM25
+
+Query: solution of differential equations by computer
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: solution of differential equations by computer
+ndcg: 0.21474316314206585
+
+Scoring documents with Okapi BM25
+
+Query: efficiency of digital computers versus analogue computers in the solution of boundary value problems
+Average Precision: 0.022682076326277858
+
+Scoring documents with Okapi BM25
+
+Query: efficiency of digital computers versus analogue computers in the solution of boundary value problems
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: efficiency of digital computers versus analogue computers in the solution of boundary value problems
+Reciprocal rank: 0.043478260869565216
+
+Scoring documents with Okapi BM25
+
+Query: efficiency of digital computers versus analogue computers in the solution of boundary value problems
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: methods of error checking in digital computers
+Average Precision: 0.22304040504435665
+
+Scoring documents with Okapi BM25
+
+Query: methods of error checking in digital computers
+Precision at k: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: methods of error checking in digital computers
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: methods of error checking in digital computers
+ndcg: 0.15958907712489634
+
+Scoring documents with Okapi BM25
+
+Query: methods of producing minimal nets given a logical function in canonical form
+Average Precision: 0.3090291979585068
+
+Scoring documents with Okapi BM25
+
+Query: methods of producing minimal nets given a logical function in canonical form
+Precision at k: 0.3
+
+Scoring documents with Okapi BM25
+
+Query: methods of producing minimal nets given a logical function in canonical form
+Reciprocal rank: 0.5
+
+Scoring documents with Okapi BM25
+
+Query: methods of producing minimal nets given a logical function in canonical form
+ndcg: 0.6661998717660157
+
+Scoring documents with Okapi BM25
+
+Query: arithmetic units as required in a digital computer including shift registers serial and parallel adder
+Average Precision: 0.3066293608871929
+
+Scoring documents with Okapi BM25
+
+Query: arithmetic units as required in a digital computer including shift registers serial and parallel adder
+Precision at k: 0.5
+
+Scoring documents with Okapi BM25
+
+Query: arithmetic units as required in a digital computer including shift registers serial and parallel adder
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: arithmetic units as required in a digital computer including shift registers serial and parallel adder
+ndcg: 0.1979968183987281
+
+Scoring documents with Okapi BM25
+
+Query: information on the design of low drift transistor amplifiers
+Average Precision: 0.16200474047149407
+
+Scoring documents with Okapi BM25
+
+Query: information on the design of low drift transistor amplifiers
+Precision at k: 0.3
+
+Scoring documents with Okapi BM25
+
+Query: information on the design of low drift transistor amplifiers
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: information on the design of low drift transistor amplifiers
+ndcg: 0.10646460544804326
+
+Scoring documents with Okapi BM25
+
+Query: information on high current transistor switches
+Average Precision: 0.02220192944557205
+
+Scoring documents with Okapi BM25
+
+Query: information on high current transistor switches
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: information on high current transistor switches
+Reciprocal rank: 0.058823529411764705
+
+Scoring documents with Okapi BM25
+
+Query: information on high current transistor switches
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: information on design of time division multiplexing circuits
+Average Precision: 0.14524521469514093
+
+Scoring documents with Okapi BM25
+
+Query: information on design of time division multiplexing circuits
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: information on design of time division multiplexing circuits
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: information on design of time division multiplexing circuits
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: details of available low voltage capacitors
+Average Precision: 0.01639344262295082
+
+Scoring documents with Okapi BM25
+
+Query: details of available low voltage capacitors
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: details of available low voltage capacitors
+Reciprocal rank: 0.01639344262295082
+
+Scoring documents with Okapi BM25
+
+Query: details of available low voltage capacitors
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: design of direct coupled flip flops to function with the maximum variations in the values of the circuit components
+Average Precision: 0.029093971210499586
+
+Scoring documents with Okapi BM25
+
+Query: design of direct coupled flip flops to function with the maximum variations in the values of the circuit components
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: design of direct coupled flip flops to function with the maximum variations in the values of the circuit components
+Reciprocal rank: 0.16666666666666666
+
+Scoring documents with Okapi BM25
+
+Query: design of direct coupled flip flops to function with the maximum variations in the values of the circuit components
+ndcg: 0.06335619058732639
+
+Scoring documents with Okapi BM25
+
+Query: please supply information on the performance of typical magnetic film memory systems with circuit diagrams
+Average Precision: 0.062426453064471685
+
+Scoring documents with Okapi BM25
+
+Query: please supply information on the performance of typical magnetic film memory systems with circuit diagrams
+Precision at k: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: please supply information on the performance of typical magnetic film memory systems with circuit diagrams
+Reciprocal rank: 0.5
+
+Scoring documents with Okapi BM25
+
+Query: please supply information on the performance of typical magnetic film memory systems with circuit diagrams
+ndcg: 0.15999354457977183
+
+Scoring documents with Okapi BM25
+
+Query: i would like details of the work which has been done to extend the frequency range of magnetic amplifiers
+Average Precision: 0.06255350035171103
+
+Scoring documents with Okapi BM25
+
+Query: i would like details of the work which has been done to extend the frequency range of magnetic amplifiers
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: i would like details of the work which has been done to extend the frequency range of magnetic amplifiers
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: i would like details of the work which has been done to extend the frequency range of magnetic amplifiers
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: i would like information on the range of static relays suitable for use at high switching rates
+Average Precision: 0.2190321862208135
+
+Scoring documents with Okapi BM25
+
+Query: i would like information on the range of static relays suitable for use at high switching rates
+Precision at k: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: i would like information on the range of static relays suitable for use at high switching rates
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: i would like information on the range of static relays suitable for use at high switching rates
+ndcg: 0.22009176629808017
+
+Scoring documents with Okapi BM25
+
+Query: i am interested in circuitry capable of generating extremely narrow pulses
+Average Precision: 0.07456830341027075
+
+Scoring documents with Okapi BM25
+
+Query: i am interested in circuitry capable of generating extremely narrow pulses
+Precision at k: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: i am interested in circuitry capable of generating extremely narrow pulses
+Reciprocal rank: 0.3333333333333333
+
+Scoring documents with Okapi BM25
+
+Query: i am interested in circuitry capable of generating extremely narrow pulses
+ndcg: 0.2111759851719728
+
+Scoring documents with Okapi BM25
+
+Query: please supply information on the theory and use of parametric amplifiers
+Average Precision: 0.07799528560672395
+
+Scoring documents with Okapi BM25
+
+Query: please supply information on the theory and use of parametric amplifiers
+Precision at k: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: please supply information on the theory and use of parametric amplifiers
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: please supply information on the theory and use of parametric amplifiers
+ndcg: 0.039495739055104964
+
+Scoring documents with Okapi BM25
+
+Query: the synthesis of networks with given sampled data transfer functions
+Average Precision: 0.009493898979542795
+
+Scoring documents with Okapi BM25
+
+Query: the synthesis of networks with given sampled data transfer functions
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the synthesis of networks with given sampled data transfer functions
+Reciprocal rank: 0.010416666666666666
+
+Scoring documents with Okapi BM25
+
+Query: the synthesis of networks with given sampled data transfer functions
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the theory of stability in relation to control systems with relay elements
+Average Precision: 0.1315184128942464
+
+Scoring documents with Okapi BM25
+
+Query: the theory of stability in relation to control systems with relay elements
+Precision at k: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: the theory of stability in relation to control systems with relay elements
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: the theory of stability in relation to control systems with relay elements
+ndcg: 0.07839826897867533
+
+Scoring documents with Okapi BM25
+
+Query: the use of digital computers to obtain power spectral analysis of numerical data
+Average Precision: 1.8135654697134566E-4
+
+Scoring documents with Okapi BM25
+
+Query: the use of digital computers to obtain power spectral analysis of numerical data
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the use of digital computers to obtain power spectral analysis of numerical data
+Reciprocal rank: 1.8135654697134566E-4
+
+Scoring documents with Okapi BM25
+
+Query: the use of digital computers to obtain power spectral analysis of numerical data
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: printed circuit design for a random pulse generator of low frequency
+Average Precision: 0.253968253968254
+
+Scoring documents with Okapi BM25
+
+Query: printed circuit design for a random pulse generator of low frequency
+Precision at k: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: printed circuit design for a random pulse generator of low frequency
+Reciprocal rank: 0.3333333333333333
+
+Scoring documents with Okapi BM25
+
+Query: printed circuit design for a random pulse generator of low frequency
+ndcg: 0.49818925746641285
+
+Scoring documents with Okapi BM25
+
+Query: references on electric field theories of the aurora
+Average Precision: 0.003427242168751728
+
+Scoring documents with Okapi BM25
+
+Query: references on electric field theories of the aurora
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: references on electric field theories of the aurora
+Reciprocal rank: 0.006024096385542169
+
+Scoring documents with Okapi BM25
+
+Query: references on electric field theories of the aurora
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: fast transistor counters
+Average Precision: 0.03832212477964246
+
+Scoring documents with Okapi BM25
+
+Query: fast transistor counters
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: fast transistor counters
+Reciprocal rank: 0.09090909090909091
+
+Scoring documents with Okapi BM25
+
+Query: fast transistor counters
+ndcg: 0.03979136081202061
+
+Scoring documents with Okapi BM25
+
+Query: low pass lattice filters
+Average Precision: 0.3097503911170485
+
+Scoring documents with Okapi BM25
+
+Query: low pass lattice filters
+Precision at k: 0.5
+
+Scoring documents with Okapi BM25
+
+Query: low pass lattice filters
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: low pass lattice filters
+ndcg: 0.19253488973238256
+
+Scoring documents with Okapi BM25
+
+Query: similarities between the diffraction theory of electromagnetic waves and that of electron streams
+Average Precision: 0.034207915658958025
+
+Scoring documents with Okapi BM25
+
+Query: similarities between the diffraction theory of electromagnetic waves and that of electron streams
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: similarities between the diffraction theory of electromagnetic waves and that of electron streams
+Reciprocal rank: 0.5
+
+Scoring documents with Okapi BM25
+
+Query: similarities between the diffraction theory of electromagnetic waves and that of electron streams
+ndcg: 0.13359023741301432
+
+Scoring documents with Okapi BM25
+
+Query: the use of complex variables in the theory of communication networks
+Average Precision: 0.004095669212742795
+
+Scoring documents with Okapi BM25
+
+Query: the use of complex variables in the theory of communication networks
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the use of complex variables in the theory of communication networks
+Reciprocal rank: 0.015384615384615385
+
+Scoring documents with Okapi BM25
+
+Query: the use of complex variables in the theory of communication networks
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the behaviour of a beam of charged particles in the presence of plane conductors
+Average Precision: 0.004452058082360931
+
+Scoring documents with Okapi BM25
+
+Query: the behaviour of a beam of charged particles in the presence of plane conductors
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the behaviour of a beam of charged particles in the presence of plane conductors
+Reciprocal rank: 0.03125
+
+Scoring documents with Okapi BM25
+
+Query: the behaviour of a beam of charged particles in the presence of plane conductors
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: predicting the paths of electrons moving in a varying magnetic field
+Average Precision: 0.006362008120437267
+
+Scoring documents with Okapi BM25
+
+Query: predicting the paths of electrons moving in a varying magnetic field
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: predicting the paths of electrons moving in a varying magnetic field
+Reciprocal rank: 0.019230769230769232
+
+Scoring documents with Okapi BM25
+
+Query: predicting the paths of electrons moving in a varying magnetic field
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: active constant voltage transformer for signal distribution
+Average Precision: 0.053773824181549655
+
+Scoring documents with Okapi BM25
+
+Query: active constant voltage transformer for signal distribution
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: active constant voltage transformer for signal distribution
+Reciprocal rank: 0.3333333333333333
+
+Scoring documents with Okapi BM25
+
+Query: active constant voltage transformer for signal distribution
+ndcg: 0.0646684107724282
+
+Scoring documents with Okapi BM25
+
+Query: active audio frequency filter with variable cut off slope
+Average Precision: 0.21981847178746985
+
+Scoring documents with Okapi BM25
+
+Query: active audio frequency filter with variable cut off slope
+Precision at k: 0.3
+
+Scoring documents with Okapi BM25
+
+Query: active audio frequency filter with variable cut off slope
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: active audio frequency filter with variable cut off slope
+ndcg: 0.14532423885924936
+
+Scoring documents with Okapi BM25
+
+Query: variable ultra high frequency attenuators
+Average Precision: 0.008140177450909562
+
+Scoring documents with Okapi BM25
+
+Query: variable ultra high frequency attenuators
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: variable ultra high frequency attenuators
+Reciprocal rank: 0.019230769230769232
+
+Scoring documents with Okapi BM25
+
+Query: variable ultra high frequency attenuators
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: faulty operation of feedback time bases
+Average Precision: 0.026946869416259022
+
+Scoring documents with Okapi BM25
+
+Query: faulty operation of feedback time bases
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: faulty operation of feedback time bases
+Reciprocal rank: 0.041666666666666664
+
+Scoring documents with Okapi BM25
+
+Query: faulty operation of feedback time bases
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: variable capacitance amplifiers
+Average Precision: 0.17130960691848796
+
+Scoring documents with Okapi BM25
+
+Query: variable capacitance amplifiers
+Precision at k: 0.5
+
+Scoring documents with Okapi BM25
+
+Query: variable capacitance amplifiers
+Reciprocal rank: 0.5
+
+Scoring documents with Okapi BM25
+
+Query: variable capacitance amplifiers
+ndcg: 0.3028236275284823
+
+Scoring documents with Okapi BM25
+
+Query: transistor sweep generators
+Average Precision: 0.07974819333024559
+
+Scoring documents with Okapi BM25
+
+Query: transistor sweep generators
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: transistor sweep generators
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: transistor sweep generators
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: advantages of parametric amplifiers
+Average Precision: 0.09924234898412872
+
+Scoring documents with Okapi BM25
+
+Query: advantages of parametric amplifiers
+Precision at k: 0.4
+
+Scoring documents with Okapi BM25
+
+Query: advantages of parametric amplifiers
+Reciprocal rank: 0.3333333333333333
+
+Scoring documents with Okapi BM25
+
+Query: advantages of parametric amplifiers
+ndcg: 0.1982191574305351
+
+Scoring documents with Okapi BM25
+
+Query: optimising linear networks
+Average Precision: 0.2599828322711103
+
+Scoring documents with Okapi BM25
+
+Query: optimising linear networks
+Precision at k: 0.4
+
+Scoring documents with Okapi BM25
+
+Query: optimising linear networks
+Reciprocal rank: 0.5
+
+Scoring documents with Okapi BM25
+
+Query: optimising linear networks
+ndcg: 0.16124152875076808
+
+Scoring documents with Okapi BM25
+
+Query: transistor phase splitting circuits
+Average Precision: 0.055504407584367074
+
+Scoring documents with Okapi BM25
+
+Query: transistor phase splitting circuits
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: transistor phase splitting circuits
+Reciprocal rank: 0.16666666666666666
+
+Scoring documents with Okapi BM25
+
+Query: transistor phase splitting circuits
+ndcg: 0.09092803061897883
+
+Scoring documents with Okapi BM25
+
+Query: please supply information pertinent to the use of surface pretreatment to prevent secondary emission effects in valves
+Average Precision: 0.20544693793226995
+
+Scoring documents with Okapi BM25
+
+Query: please supply information pertinent to the use of surface pretreatment to prevent secondary emission effects in valves
+Precision at k: 0.4
+
+Scoring documents with Okapi BM25
+
+Query: please supply information pertinent to the use of surface pretreatment to prevent secondary emission effects in valves
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: please supply information pertinent to the use of surface pretreatment to prevent secondary emission effects in valves
+ndcg: 0.26909010033247943
+
+Scoring documents with Okapi BM25
+
+Query: i wish to have data about the design of mechanical band pass filters for good pass characteristics
+Average Precision: 0.061143137552160234
+
+Scoring documents with Okapi BM25
+
+Query: i wish to have data about the design of mechanical band pass filters for good pass characteristics
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: i wish to have data about the design of mechanical band pass filters for good pass characteristics
+Reciprocal rank: 0.05555555555555555
+
+Scoring documents with Okapi BM25
+
+Query: i wish to have data about the design of mechanical band pass filters for good pass characteristics
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: mechanisms whereby transmission at high frequencies is affected by weather and time of day
+Average Precision: 0.008356071129377007
+
+Scoring documents with Okapi BM25
+
+Query: mechanisms whereby transmission at high frequencies is affected by weather and time of day
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: mechanisms whereby transmission at high frequencies is affected by weather and time of day
+Reciprocal rank: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: mechanisms whereby transmission at high frequencies is affected by weather and time of day
+ndcg: 0.033598102841379755
+
+Scoring documents with Okapi BM25
+
+Query: could you please give me articles about the possibilities of getting rectification using metallic devices
+Average Precision: 0.010351286794706666
+
+Scoring documents with Okapi BM25
+
+Query: could you please give me articles about the possibilities of getting rectification using metallic devices
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: could you please give me articles about the possibilities of getting rectification using metallic devices
+Reciprocal rank: 0.1111111111111111
+
+Scoring documents with Okapi BM25
+
+Query: could you please give me articles about the possibilities of getting rectification using metallic devices
+ndcg: 0.05890605135464942
+
+Scoring documents with Okapi BM25
+
+Query: i wish to calculate the inductance and loss in coils made using printed circuit or other miniaturization ideas. a suitable article please
+Average Precision: 0.03712917816128825
+
+Scoring documents with Okapi BM25
+
+Query: i wish to calculate the inductance and loss in coils made using printed circuit or other miniaturization ideas. a suitable article please
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: i wish to calculate the inductance and loss in coils made using printed circuit or other miniaturization ideas. a suitable article please
+Reciprocal rank: 0.09090909090909091
+
+Scoring documents with Okapi BM25
+
+Query: i wish to calculate the inductance and loss in coils made using printed circuit or other miniaturization ideas. a suitable article please
+ndcg: 0.11284514134893524
+
+Scoring documents with Okapi BM25
+
+Query: analysis of nonlinear systems using phase plane techniques
+Average Precision: 0.14753692174849198
+
+Scoring documents with Okapi BM25
+
+Query: analysis of nonlinear systems using phase plane techniques
+Precision at k: 0.3
+
+Scoring documents with Okapi BM25
+
+Query: analysis of nonlinear systems using phase plane techniques
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: analysis of nonlinear systems using phase plane techniques
+ndcg: 0.1510811742770528
+
+Scoring documents with Okapi BM25
+
+Query: miniature low noise high gain high impedance amplifiers
+Average Precision: 0.1112437397689878
+
+Scoring documents with Okapi BM25
+
+Query: miniature low noise high gain high impedance amplifiers
+Precision at k: 0.3
+
+Scoring documents with Okapi BM25
+
+Query: miniature low noise high gain high impedance amplifiers
+Reciprocal rank: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: miniature low noise high gain high impedance amplifiers
+ndcg: 0.13214320882976352
+
+Scoring documents with Okapi BM25
+
+Query: control characteristics of sampling servo systems
+Average Precision: 0.08611639236752923
+
+Scoring documents with Okapi BM25
+
+Query: control characteristics of sampling servo systems
+Precision at k: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: control characteristics of sampling servo systems
+Reciprocal rank: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: control characteristics of sampling servo systems
+ndcg: 0.10612190992283727
+
+Scoring documents with Okapi BM25
+
+Query: power spectral density distribution obtained using analogue techniques
+Average Precision: 0.0028414971607979038
+
+Scoring documents with Okapi BM25
+
+Query: power spectral density distribution obtained using analogue techniques
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: power spectral density distribution obtained using analogue techniques
+Reciprocal rank: 0.0018248175182481751
+
+Scoring documents with Okapi BM25
+
+Query: power spectral density distribution obtained using analogue techniques
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: high stability high input impedance transistorised analogue amplifier
+Average Precision: 0.054993586904642046
+
+Scoring documents with Okapi BM25
+
+Query: high stability high input impedance transistorised analogue amplifier
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: high stability high input impedance transistorised analogue amplifier
+Reciprocal rank: 0.16666666666666666
+
+Scoring documents with Okapi BM25
+
+Query: high stability high input impedance transistorised analogue amplifier
+ndcg: 0.05494858807198588
+
+Scoring documents with Okapi BM25
+
+Query: electronic specific heat of a superconductor showing a discontinuity at the superconducting critical temperature
+Average Precision: 0.023455305640767594
+
+Scoring documents with Okapi BM25
+
+Query: electronic specific heat of a superconductor showing a discontinuity at the superconducting critical temperature
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: electronic specific heat of a superconductor showing a discontinuity at the superconducting critical temperature
+Reciprocal rank: 0.14285714285714285
+
+Scoring documents with Okapi BM25
+
+Query: electronic specific heat of a superconductor showing a discontinuity at the superconducting critical temperature
+ndcg: 0.0979129253499678
+
+Scoring documents with Okapi BM25
+
+Query: an abstract on the field distribution surrounding a charged thin circular disc resting on an infinite dielectric slab
+Average Precision: 0.02150146712539304
+
+Scoring documents with Okapi BM25
+
+Query: an abstract on the field distribution surrounding a charged thin circular disc resting on an infinite dielectric slab
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: an abstract on the field distribution surrounding a charged thin circular disc resting on an infinite dielectric slab
+Reciprocal rank: 0.041666666666666664
+
+Scoring documents with Okapi BM25
+
+Query: an abstract on the field distribution surrounding a charged thin circular disc resting on an infinite dielectric slab
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: tunnel diode construction and its electrical characteristics explained
+Average Precision: 0.05206185165810245
+
+Scoring documents with Okapi BM25
+
+Query: tunnel diode construction and its electrical characteristics explained
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: tunnel diode construction and its electrical characteristics explained
+Reciprocal rank: 0.09090909090909091
+
+Scoring documents with Okapi BM25
+
+Query: tunnel diode construction and its electrical characteristics explained
+ndcg: 0.05676017260796053
+
+Scoring documents with Okapi BM25
+
+Query: electronic density of states at the surface of a semiconductor compared with that at depth
+Average Precision: 0.0069237498634963195
+
+Scoring documents with Okapi BM25
+
+Query: electronic density of states at the surface of a semiconductor compared with that at depth
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: electronic density of states at the surface of a semiconductor compared with that at depth
+Reciprocal rank: 0.14285714285714285
+
+Scoring documents with Okapi BM25
+
+Query: electronic density of states at the surface of a semiconductor compared with that at depth
+ndcg: 0.03975645576081676
+
+Scoring documents with Okapi BM25
+
+Query: resistivity of metallic thin films related to surface roughness
+Average Precision: 0.10646447392423329
+
+Scoring documents with Okapi BM25
+
+Query: resistivity of metallic thin films related to surface roughness
+Precision at k: 0.2
+
+Scoring documents with Okapi BM25
+
+Query: resistivity of metallic thin films related to surface roughness
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: resistivity of metallic thin films related to surface roughness
+ndcg: 0.04245307134224695
+
+Scoring documents with Okapi BM25
+
+Query: the phenomenon of radiation caused by charged particles moving in varying electric and magnetic fields
+Average Precision: 0.004491447329596993
+
+Scoring documents with Okapi BM25
+
+Query: the phenomenon of radiation caused by charged particles moving in varying electric and magnetic fields
+Precision at k: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: the phenomenon of radiation caused by charged particles moving in varying electric and magnetic fields
+Reciprocal rank: 0.016666666666666666
+
+Scoring documents with Okapi BM25
+
+Query: the phenomenon of radiation caused by charged particles moving in varying electric and magnetic fields
+ndcg: 0.0
+
+Scoring documents with Okapi BM25
+
+Query: high frequency oscillators using transistors theoretical treatment and practical circuit details
+Average Precision: 0.06707299321746109
+
+Scoring documents with Okapi BM25
+
+Query: high frequency oscillators using transistors theoretical treatment and practical circuit details
+Precision at k: 0.1
+
+Scoring documents with Okapi BM25
+
+Query: high frequency oscillators using transistors theoretical treatment and practical circuit details
+Reciprocal rank: 1.0
+
+Scoring documents with Okapi BM25
+
+Query: high frequency oscillators using transistors theoretical treatment and practical circuit details
+ndcg: 0.0
+
+MAP: 0.08973173576677325
+
+P@10: 0.1387096774193548
+
+MRR: 0.36739142903437577
+
+NDCG: 0.08558193251028082

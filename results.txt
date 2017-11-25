@@ -1,0 +1,5988 @@
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurement of dielectric constant of liquids by the use of microwave techniques
+  1. 8172
+X 2. 9881
+  3. 5502
+  4. 1502
+X 5. 4871
+X 6. 4817
+X 7. 8276
+X 8. 7234
+X 9. 8582
+X 10. 6276
+X 11. 8258
+X 12. 4463
+X 13. 10652
+X 14. 8565
+X 15. 9588
+  16. 9859
+X 17. 2800
+X 18. 2224
+X 19. 7230
+X 20. 2236
+X 21. 4147
+X 22. 4827
+X 23. 720
+  24. 7923
+  25. 8150
+Average Precision: 0.5191666666666667
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurement of dielectric constant of liquids by the use of microwave techniques
+  0. 8172
+X 1. 9881
+  2. 5502
+  3. 1502
+X 4. 4871
+X 5. 4817
+X 6. 8276
+X 7. 7234
+X 8. 8582
+X 9. 6276
+X 10. 8258
+Precision at k: 0.3
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurement of dielectric constant of liquids by the use of microwave techniques
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurement of dielectric constant of liquids by the use of microwave techniques
+X 1. 9881
+  3. 1502
+X 5. 4817
+X 7. 7234
+X 9. 6276
+ndcg: 0.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mathematical analysis and design details of waveguide fed microwave radiations
+X 1. 2850
+X 2. 3781
+X 3. 5124
+  4. 7113
+X 5. 5012
+X 6. 2284
+X 7. 9820
+X 8. 7803
+X 9. 8891
+X 10. 2218
+X 11. 2729
+X 12. 1183
+X 13. 8803
+X 14. 8253
+X 15. 8873
+X 16. 4330
+X 17. 5662
+X 18. 6883
+X 19. 8997
+X 20. 5630
+X 21. 7998
+X 22. 1239
+X 23. 2322
+X 24. 2325
+X 25. 10238
+Average Precision: 0.25
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mathematical analysis and design details of waveguide fed microwave radiations
+X 0. 2850
+X 1. 3781
+X 2. 5124
+  3. 7113
+X 4. 5012
+X 5. 2284
+X 6. 9820
+X 7. 7803
+X 8. 8891
+X 9. 2218
+X 10. 2729
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mathematical analysis and design details of waveguide fed microwave radiations
+X 1. 2850
+X 2. 3781
+X 3. 5124
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mathematical analysis and design details of waveguide fed microwave radiations
+X 1. 3781
+  3. 7113
+X 5. 2284
+X 7. 7803
+X 9. 2218
+ndcg: 0.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of digital computers in the design of band pass filters having given phase and attenuation characteristics
+X 1. 11038
+  2. 7304
+X 3. 9418
+X 4. 3970
+  5. 7086
+X 6. 6888
+  7. 4725
+X 8. 4205
+X 9. 9182
+X 10. 6348
+X 11. 3397
+X 12. 1337
+X 13. 3503
+X 14. 9180
+  15. 3272
+X 16. 5250
+  17. 4833
+X 18. 6536
+X 19. 4079
+X 20. 8238
+X 21. 5984
+X 22. 5045
+X 23. 8563
+  24. 5856
+X 25. 5358
+Average Precision: 0.3565592903828198
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of digital computers in the design of band pass filters having given phase and attenuation characteristics
+X 0. 11038
+  1. 7304
+X 2. 9418
+X 3. 3970
+  4. 7086
+X 5. 6888
+  6. 4725
+X 7. 4205
+X 8. 9182
+X 9. 6348
+X 10. 3397
+Precision at k: 0.3
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of digital computers in the design of band pass filters having given phase and attenuation characteristics
+X 1. 11038
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of digital computers in the design of band pass filters having given phase and attenuation characteristics
+  1. 7304
+X 3. 3970
+X 5. 6888
+X 7. 4205
+X 9. 6348
+ndcg: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: systems of data coding for information transfer
+  1. 3595
+X 2. 7527
+  3. 7985
+  4. 4057
+  5. 2042
+X 6. 2175
+X 7. 5437
+X 8. 9252
+X 9. 1136
+X 10. 4596
+X 11. 10428
+X 12. 6233
+X 13. 5576
+X 14. 4199
+X 15. 10805
+X 16. 7346
+X 17. 4412
+X 18. 8205
+X 19. 7989
+X 20. 146
+X 21. 1940
+X 22. 6138
+X 23. 9414
+X 24. 1595
+X 25. 4185
+Average Precision: 0.8041666666666667
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: systems of data coding for information transfer
+  0. 3595
+X 1. 7527
+  2. 7985
+  3. 4057
+  4. 2042
+X 5. 2175
+X 6. 5437
+X 7. 9252
+X 8. 1136
+X 9. 4596
+X 10. 10428
+Precision at k: 0.4
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: systems of data coding for information transfer
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: systems of data coding for information transfer
+X 1. 7527
+  3. 4057
+X 5. 2175
+X 7. 9252
+X 9. 4596
+ndcg: 0.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of programs in engineering testing of computers
+X 1. 1586
+X 2. 11429
+X 3. 7875
+X 4. 2290
+X 5. 4307
+X 6. 4308
+X 7. 9165
+X 8. 10156
+X 9. 2511
+X 10. 3559
+X 11. 2675
+X 12. 3039
+X 13. 5130
+X 14. 140
+X 15. 3374
+X 16. 148
+X 17. 396
+X 18. 2927
+X 19. 4522
+X 20. 10160
+X 21. 2929
+X 22. 3252
+X 23. 9769
+X 24. 5429
+X 25. 884
+Average Precision: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of programs in engineering testing of computers
+X 0. 1586
+X 1. 11429
+X 2. 7875
+X 3. 2290
+X 4. 4307
+X 5. 4308
+X 6. 9165
+X 7. 10156
+X 8. 2511
+X 9. 3559
+X 10. 2675
+Precision at k: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of programs in engineering testing of computers
+X 1. 1586
+X 2. 11429
+X 3. 7875
+X 4. 2290
+X 5. 4307
+X 6. 4308
+X 7. 9165
+X 8. 10156
+X 9. 2511
+X 10. 3559
+X 11. 2675
+X 12. 3039
+X 13. 5130
+X 14. 140
+X 15. 3374
+X 16. 148
+X 17. 396
+X 18. 2927
+X 19. 4522
+X 20. 10160
+X 21. 2929
+X 22. 3252
+X 23. 9769
+X 24. 5429
+X 25. 884
+Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: use of programs in engineering testing of computers
+X 1. 11429
+X 3. 2290
+X 5. 4308
+X 7. 10156
+X 9. 3559
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: number representation in binary machines
+  1. 5440
+X 2. 2682
+X 3. 8534
+X 4. 4316
+X 5. 8643
+  6. 10162
+X 7. 2673
+X 8. 3375
+X 9. 8134
+X 10. 6997
+X 11. 3600
+X 12. 5739
+  13. 5437
+X 14. 5263
+X 15. 9188
+X 16. 7328
+X 17. 6045
+X 18. 4830
+X 19. 7352
+  20. 402
+X 21. 2422
+X 22. 11168
+X 23. 9667
+X 24. 3484
+X 25. 4594
+Average Precision: 0.441025641025641
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: number representation in binary machines
+  0. 5440
+X 1. 2682
+X 2. 8534
+X 3. 4316
+X 4. 8643
+  5. 10162
+X 6. 2673
+X 7. 3375
+X 8. 8134
+X 9. 6997
+X 10. 3600
+Precision at k: 0.2
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: number representation in binary machines
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: number representation in binary machines
+X 1. 2682
+X 3. 4316
+  5. 10162
+X 7. 3375
+X 9. 6997
+ndcg: 0.38685280723454163
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: secondary emission of electrons by positive ion bombardment of the cathode
+  1. 5292
+  2. 6569
+  3. 5903
+X 4. 2096
+X 5. 6017
+  6. 6731
+  7. 9977
+X 8. 10109
+  9. 9726
+  10. 6184
+X 11. 8863
+  12. 5507
+X 13. 6386
+X 14. 2725
+  15. 2724
+  16. 10071
+  17. 829
+  18. 7410
+  19. 11344
+  20. 6188
+  21. 9448
+X 22. 9725
+  23. 6190
+  24. 450
+  25. 451
+Average Precision: 0.7319718306849817
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: secondary emission of electrons by positive ion bombardment of the cathode
+  0. 5292
+  1. 6569
+  2. 5903
+X 3. 2096
+X 4. 6017
+  5. 6731
+  6. 9977
+X 7. 10109
+  8. 9726
+  9. 6184
+X 10. 8863
+Precision at k: 0.7
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: secondary emission of electrons by positive ion bombardment of the cathode
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: secondary emission of electrons by positive ion bombardment of the cathode
+  1. 6569
+X 3. 2096
+  5. 6731
+X 7. 10109
+  9. 6184
+ndcg: 1.6878828028985229
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurement of plasma temperatures in arc discharge using shock wave techniques
+X 1. 11350
+  2. 3774
+X 3. 1998
+X 4. 10788
+X 5. 9588
+X 6. 10912
+X 7. 9209
+X 8. 58
+X 9. 4117
+X 10. 191
+X 11. 5083
+X 12. 708
+X 13. 978
+X 14. 987
+X 15. 2720
+X 16. 7931
+X 17. 4753
+X 18. 834
+X 19. 2100
+X 20. 453
+X 21. 1358
+X 22. 9104
+X 23. 8051
+X 24. 10783
+X 25. 7930
+Average Precision: 0.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurement of plasma temperatures in arc discharge using shock wave techniques
+X 0. 11350
+  1. 3774
+X 2. 1998
+X 3. 10788
+X 4. 9588
+X 5. 10912
+X 6. 9209
+X 7. 58
+X 8. 4117
+X 9. 191
+X 10. 5083
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurement of plasma temperatures in arc discharge using shock wave techniques
+X 1. 11350
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurement of plasma temperatures in arc discharge using shock wave techniques
+  1. 3774
+X 3. 10788
+X 5. 10912
+X 7. 58
+X 9. 191
+ndcg: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: characteristics of the single electrode discharge in the rare gases at low pressures
+  1. 7014
+X 2. 7933
+X 3. 6111
+X 4. 5300
+X 5. 3089
+X 6. 5071
+X 7. 4754
+X 8. 4753
+X 9. 9719
+X 10. 6381
+X 11. 4972
+X 12. 57
+X 13. 7931
+X 14. 7930
+X 15. 1356
+X 16. 7205
+X 17. 10382
+X 18. 3203
+X 19. 6186
+X 20. 10918
+X 21. 10788
+X 22. 9975
+X 23. 978
+X 24. 5189
+X 25. 1759
+Average Precision: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: characteristics of the single electrode discharge in the rare gases at low pressures
+  0. 7014
+X 1. 7933
+X 2. 6111
+X 3. 5300
+X 4. 3089
+X 5. 5071
+X 6. 4754
+X 7. 4753
+X 8. 9719
+X 9. 6381
+X 10. 4972
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: characteristics of the single electrode discharge in the rare gases at low pressures
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: characteristics of the single electrode discharge in the rare gases at low pressures
+X 1. 7933
+X 3. 5300
+X 5. 5071
+X 7. 4753
+X 9. 6381
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of calculating instantaneous power dissipation in reactive circuits
+X 1. 9530
+X 2. 2669
+  3. 10617
+X 4. 7089
+X 5. 631
+X 6. 4611
+  7. 6966
+X 8. 9171
+X 9. 4329
+X 10. 1304
+X 11. 1621
+X 12. 7459
+X 13. 3264
+X 14. 1934
+X 15. 10035
+X 16. 1848
+X 17. 6813
+X 18. 3384
+X 19. 6705
+X 20. 6965
+X 21. 11033
+X 22. 3386
+X 23. 189
+X 24. 8213
+X 25. 10204
+Average Precision: 0.30952380952380953
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of calculating instantaneous power dissipation in reactive circuits
+X 0. 9530
+X 1. 2669
+  2. 10617
+X 3. 7089
+X 4. 631
+X 5. 4611
+  6. 6966
+X 7. 9171
+X 8. 4329
+X 9. 1304
+X 10. 1621
+Precision at k: 0.2
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of calculating instantaneous power dissipation in reactive circuits
+X 1. 9530
+X 2. 2669
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of calculating instantaneous power dissipation in reactive circuits
+X 1. 2669
+X 3. 7089
+X 5. 4611
+X 7. 9171
+X 9. 1304
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the effect of oxidation on circuit breaker contacts
+X 1. 1098
+X 2. 515
+X 3. 827
+X 4. 7455
+X 5. 9538
+X 6. 7654
+X 7. 4139
+X 8. 2048
+X 9. 3473
+X 10. 4962
+X 11. 5645
+X 12. 9933
+X 13. 7206
+X 14. 3627
+X 15. 4687
+X 16. 1600
+X 17. 4648
+X 18. 4176
+X 19. 5897
+X 20. 5504
+X 21. 8343
+X 22. 6726
+  23. 8219
+X 24. 3517
+X 25. 3792
+Average Precision: 0.043478260869565216
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the effect of oxidation on circuit breaker contacts
+X 0. 1098
+X 1. 515
+X 2. 827
+X 3. 7455
+X 4. 9538
+X 5. 7654
+X 6. 4139
+X 7. 2048
+X 8. 3473
+X 9. 4962
+X 10. 5645
+Precision at k: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the effect of oxidation on circuit breaker contacts
+X 1. 1098
+X 2. 515
+X 3. 827
+X 4. 7455
+X 5. 9538
+X 6. 7654
+X 7. 4139
+X 8. 2048
+X 9. 3473
+X 10. 4962
+X 11. 5645
+X 12. 9933
+X 13. 7206
+X 14. 3627
+X 15. 4687
+X 16. 1600
+X 17. 4648
+X 18. 4176
+X 19. 5897
+X 20. 5504
+X 21. 8343
+X 22. 6726
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the effect of oxidation on circuit breaker contacts
+X 1. 515
+X 3. 7455
+X 5. 7654
+X 7. 2048
+X 9. 4962
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: temperature independent methods for tuning highly stable high frequency oscillators
+X 1. 11318
+  2. 4733
+X 3. 6043
+  4. 3615
+X 5. 7495
+X 6. 7500
+X 7. 4957
+  8. 2072
+  9. 7100
+X 10. 658
+X 11. 3033
+  12. 9559
+  13. 5257
+X 14. 1657
+X 15. 659
+X 16. 6960
+X 17. 8095
+X 18. 350
+  19. 9733
+X 20. 2205
+  21. 8467
+X 22. 8336
+X 23. 133
+X 24. 10501
+X 25. 8864
+Average Precision: 0.43087787577919157
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: temperature independent methods for tuning highly stable high frequency oscillators
+X 0. 11318
+  1. 4733
+X 2. 6043
+  3. 3615
+X 4. 7495
+X 5. 7500
+X 6. 4957
+  7. 2072
+  8. 7100
+X 9. 658
+X 10. 3033
+Precision at k: 0.4
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: temperature independent methods for tuning highly stable high frequency oscillators
+X 1. 11318
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: temperature independent methods for tuning highly stable high frequency oscillators
+  1. 4733
+  3. 3615
+X 5. 7500
+  7. 2072
+X 9. 658
+ndcg: 1.8333333333333333
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mathematical expressions and graphs for the design of transistorised tuned pass band amplifiers
+  1. 5873
+X 2. 3631
+  3. 3398
+  4. 2458
+X 5. 7573
+X 6. 8346
+X 7. 9552
+  8. 11053
+X 9. 10757
+  10. 6548
+X 11. 4079
+X 12. 666
+X 13. 5982
+X 14. 5989
+X 15. 10899
+  16. 8563
+X 17. 8464
+  18. 11037
+X 19. 5250
+X 20. 10039
+  21. 4454
+X 22. 5981
+X 23. 5983
+  24. 8448
+X 25. 1488
+Average Precision: 0.5485008818342152
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mathematical expressions and graphs for the design of transistorised tuned pass band amplifiers
+  0. 5873
+X 1. 3631
+  2. 3398
+  3. 2458
+X 4. 7573
+X 5. 8346
+X 6. 9552
+  7. 11053
+X 8. 10757
+  9. 6548
+X 10. 4079
+Precision at k: 0.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mathematical expressions and graphs for the design of transistorised tuned pass band amplifiers
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mathematical expressions and graphs for the design of transistorised tuned pass band amplifiers
+X 1. 3631
+  3. 2458
+X 5. 8346
+  7. 11053
+  9. 6548
+ndcg: 1.1343633289973145
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: synthesis of filters having high attenuation characteristics using a block diagram approach
+X 1. 11038
+  2. 7304
+X 3. 8203
+  4. 5749
+  5. 4205
+  6. 8463
+X 7. 6260
+  8. 11314
+  9. 3503
+X 10. 6623
+  11. 8124
+X 12. 7083
+X 13. 6786
+X 14. 1065
+  15. 1850
+X 16. 3970
+X 17. 3851
+X 18. 4832
+X 19. 6888
+  20. 4437
+X 21. 5478
+X 22. 9182
+X 23. 5979
+X 24. 9418
+X 25. 4077
+Average Precision: 0.5753367003367003
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: synthesis of filters having high attenuation characteristics using a block diagram approach
+X 0. 11038
+  1. 7304
+X 2. 8203
+  3. 5749
+  4. 4205
+  5. 8463
+X 6. 6260
+  7. 11314
+  8. 3503
+X 9. 6623
+  10. 8124
+Precision at k: 0.7
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: synthesis of filters having high attenuation characteristics using a block diagram approach
+X 1. 11038
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: synthesis of filters having high attenuation characteristics using a block diagram approach
+  1. 7304
+  3. 5749
+  5. 8463
+  7. 11314
+X 9. 6623
+ndcg: 2.220186140567875
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: voltage current relationships in networks of nonlinear elements connected in parallel
+  1. 260
+X 2. 4815
+X 3. 6988
+X 4. 3733
+X 5. 3388
+  6. 1848
+X 7. 2671
+X 8. 11189
+X 9. 10886
+  10. 3065
+  11. 10025
+X 12. 1160
+X 13. 2562
+X 14. 6673
+X 15. 9853
+X 16. 8456
+X 17. 3734
+  18. 417
+X 19. 3392
+X 20. 1869
+X 21. 5152
+X 22. 10466
+  23. 6763
+  24. 2064
+  25. 8245
+Average Precision: 0.39341046332894153
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: voltage current relationships in networks of nonlinear elements connected in parallel
+  0. 260
+X 1. 4815
+X 2. 6988
+X 3. 3733
+X 4. 3388
+  5. 1848
+X 6. 2671
+X 7. 11189
+X 8. 10886
+  9. 3065
+  10. 10025
+Precision at k: 0.4
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: voltage current relationships in networks of nonlinear elements connected in parallel
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: voltage current relationships in networks of nonlinear elements connected in parallel
+X 1. 4815
+X 3. 3733
+  5. 1848
+X 7. 11189
+  9. 3065
+ndcg: 0.6878828028985229
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of approximating the frequency phase relationships for resistive inductive and resistive capacitive circuits
+X 1. 1478
+  2. 5259
+X 3. 5685
+X 4. 5023
+X 5. 5672
+X 6. 1751
+X 7. 4834
+X 8. 4319
+X 9. 5044
+X 10. 925
+X 11. 5043
+  12. 6884
+X 13. 54
+X 14. 4538
+X 15. 9175
+X 16. 3961
+X 17. 10780
+X 18. 6786
+X 19. 7892
+X 20. 681
+X 21. 5867
+X 22. 6646
+X 23. 6787
+X 24. 9691
+X 25. 4930
+Average Precision: 0.3333333333333333
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of approximating the frequency phase relationships for resistive inductive and resistive capacitive circuits
+X 0. 1478
+  1. 5259
+X 2. 5685
+X 3. 5023
+X 4. 5672
+X 5. 1751
+X 6. 4834
+X 7. 4319
+X 8. 5044
+X 9. 925
+X 10. 5043
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of approximating the frequency phase relationships for resistive inductive and resistive capacitive circuits
+X 1. 1478
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of approximating the frequency phase relationships for resistive inductive and resistive capacitive circuits
+  1. 5259
+X 3. 5023
+X 5. 1751
+X 7. 4319
+X 9. 925
+ndcg: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: observations of rapid fluctuations in the earths magnetic field and their relation to the propagation of hydromagnetic waves in the exosphere
+  1. 10981
+  2. 93
+  3. 496
+X 4. 11130
+  5. 11128
+X 6. 347
+  7. 9486
+  8. 10979
+X 9. 1222
+X 10. 10288
+X 11. 10280
+  12. 10836
+X 13. 2398
+X 14. 1254
+  15. 4151
+X 16. 2530
+X 17. 2161
+X 18. 3702
+X 19. 585
+X 20. 1433
+X 21. 8735
+X 22. 4011
+X 23. 1521
+X 24. 328
+X 25. 1270
+Average Precision: 0.7976190476190476
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: observations of rapid fluctuations in the earths magnetic field and their relation to the propagation of hydromagnetic waves in the exosphere
+  0. 10981
+  1. 93
+  2. 496
+X 3. 11130
+  4. 11128
+X 5. 347
+  6. 9486
+  7. 10979
+X 8. 1222
+X 9. 10288
+X 10. 10280
+Precision at k: 0.6
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: observations of rapid fluctuations in the earths magnetic field and their relation to the propagation of hydromagnetic waves in the exosphere
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: observations of rapid fluctuations in the earths magnetic field and their relation to the propagation of hydromagnetic waves in the exosphere
+  1. 93
+X 3. 11130
+X 5. 347
+  7. 10979
+X 9. 10288
+ndcg: 1.3333333333333333
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: diurnal variations of fluctuations in the earths magnetic field
+X 1. 6212
+X 2. 2122
+  3. 93
+  4. 739
+X 5. 7426
+X 6. 10979
+X 7. 7519
+  8. 345
+  9. 4685
+X 10. 4508
+X 11. 1921
+X 12. 6593
+X 13. 9741
+X 14. 4903
+X 15. 1551
+X 16. 11425
+X 17. 2389
+X 18. 8080
+X 19. 4394
+X 20. 4987
+X 21. 7956
+X 22. 1254
+X 23. 3446
+X 24. 7850
+X 25. 743
+Average Precision: 0.4131944444444444
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: diurnal variations of fluctuations in the earths magnetic field
+X 0. 6212
+X 1. 2122
+  2. 93
+  3. 739
+X 4. 7426
+X 5. 10979
+X 6. 7519
+  7. 345
+  8. 4685
+X 9. 4508
+X 10. 1921
+Precision at k: 0.4
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: diurnal variations of fluctuations in the earths magnetic field
+X 1. 6212
+X 2. 2122
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: diurnal variations of fluctuations in the earths magnetic field
+X 1. 2122
+  3. 739
+X 5. 10979
+  7. 345
+X 9. 4508
+ndcg: 0.8333333333333333
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: spherical harmonic analysis of the earths magnetic field
+  1. 10693
+  2. 1670
+  3. 8757
+  4. 1004
+  5. 7615
+X 6. 5948
+X 7. 2999
+  8. 1407
+X 9. 8606
+  10. 90
+X 11. 1406
+X 12. 9486
+X 13. 1122
+X 14. 2747
+X 15. 2870
+X 16. 10105
+  17. 9053
+X 18. 7446
+X 19. 2325
+  20. 2895
+X 21. 2397
+X 22. 981
+X 23. 8912
+X 24. 9055
+X 25. 2260
+Average Precision: 0.8189542483660132
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: spherical harmonic analysis of the earths magnetic field
+  0. 10693
+  1. 1670
+  2. 8757
+  3. 1004
+  4. 7615
+X 5. 5948
+X 6. 2999
+  7. 1407
+X 8. 8606
+  9. 90
+X 10. 1406
+Precision at k: 0.7
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: spherical harmonic analysis of the earths magnetic field
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: spherical harmonic analysis of the earths magnetic field
+  1. 1670
+  3. 1004
+X 5. 5948
+  7. 1407
+  9. 90
+ndcg: 2.1343633289973143
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: derivation of the components of the electrical conductivity in the upper atmosphere
+  1. 7426
+  2. 4797
+  3. 6491
+X 4. 608
+X 5. 883
+X 6. 2139
+X 7. 6135
+X 8. 2264
+X 9. 3770
+X 10. 5315
+X 11. 2029
+X 12. 9060
+X 13. 1551
+X 14. 10438
+X 15. 10448
+X 16. 2032
+X 17. 6586
+X 18. 1141
+X 19. 11403
+X 20. 6599
+X 21. 1550
+X 22. 7028
+X 23. 11417
+  24. 6218
+X 25. 6943
+Average Precision: 0.7916666666666666
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: derivation of the components of the electrical conductivity in the upper atmosphere
+  0. 7426
+  1. 4797
+  2. 6491
+X 3. 608
+X 4. 883
+X 5. 2139
+X 6. 6135
+X 7. 2264
+X 8. 3770
+X 9. 5315
+X 10. 2029
+Precision at k: 0.3
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: derivation of the components of the electrical conductivity in the upper atmosphere
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: derivation of the components of the electrical conductivity in the upper atmosphere
+  1. 4797
+X 3. 608
+X 5. 2139
+X 7. 2264
+X 9. 5315
+ndcg: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the effects of solar flares on the absorption of cosmic radio noise in the ionosphere
+  1. 7864
+  2. 2109
+  3. 478
+  4. 3018
+  5. 10716
+  6. 757
+  7. 10715
+  8. 1907
+X 9. 9237
+X 10. 9478
+  11. 10871
+X 12. 4152
+X 13. 10577
+  14. 5326
+  15. 11264
+X 16. 5946
+X 17. 733
+X 18. 1260
+  19. 10130
+  20. 2900
+X 21. 10714
+X 22. 9388
+  23. 10279
+  24. 874
+  25. 3918
+Average Precision: 0.83881721658395
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the effects of solar flares on the absorption of cosmic radio noise in the ionosphere
+  0. 7864
+  1. 2109
+  2. 478
+  3. 3018
+  4. 10716
+  5. 757
+  6. 10715
+  7. 1907
+X 8. 9237
+X 9. 9478
+  10. 10871
+Precision at k: 0.9
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the effects of solar flares on the absorption of cosmic radio noise in the ionosphere
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the effects of solar flares on the absorption of cosmic radio noise in the ionosphere
+  1. 2109
+  3. 3018
+  5. 757
+  7. 1907
+X 9. 9478
+ndcg: 2.220186140567875
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: determination of the current systems in the upper atmosphere during magnetic storms
+  1. 608
+  2. 3446
+  3. 6026
+  4. 6221
+  5. 483
+  6. 10554
+X 7. 375
+  8. 2032
+X 9. 752
+X 10. 10562
+X 11. 6126
+X 12. 8765
+X 13. 10988
+  14. 7538
+X 15. 4761
+  16. 6403
+  17. 879
+  18. 1262
+X 19. 2769
+X 20. 4885
+  21. 9025
+X 22. 6491
+X 23. 5944
+  24. 10447
+  25. 7426
+Average Precision: 0.7772407296251833
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: determination of the current systems in the upper atmosphere during magnetic storms
+  0. 608
+  1. 3446
+  2. 6026
+  3. 6221
+  4. 483
+  5. 10554
+X 6. 375
+  7. 2032
+X 8. 752
+X 9. 10562
+X 10. 6126
+Precision at k: 0.7
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: determination of the current systems in the upper atmosphere during magnetic storms
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: determination of the current systems in the upper atmosphere during magnetic storms
+  1. 3446
+  3. 6221
+  5. 10554
+  7. 2032
+X 9. 10562
+ndcg: 2.220186140567875
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: observations of the sun during eclipses giving the distribution of sources on the disc in the microwave range
+  1. 81
+  2. 5397
+  3. 4882
+  4. 3113
+X 5. 8191
+  6. 473
+X 7. 4146
+X 8. 7147
+X 9. 4984
+X 10. 5410
+X 11. 9735
+X 12. 5942
+X 13. 5114
+X 14. 8565
+X 15. 5171
+X 16. 4404
+X 17. 5329
+X 18. 4682
+X 19. 11284
+X 20. 4737
+  21. 7609
+X 22. 1903
+  23. 6303
+  24. 7847
+X 25. 1393
+Average Precision: 0.7195910973084886
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: observations of the sun during eclipses giving the distribution of sources on the disc in the microwave range
+  0. 81
+  1. 5397
+  2. 4882
+  3. 3113
+X 4. 8191
+  5. 473
+X 6. 4146
+X 7. 7147
+X 8. 4984
+X 9. 5410
+X 10. 9735
+Precision at k: 0.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: observations of the sun during eclipses giving the distribution of sources on the disc in the microwave range
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: observations of the sun during eclipses giving the distribution of sources on the disc in the microwave range
+  1. 5397
+  3. 3113
+  5. 473
+X 7. 7147
+X 9. 5410
+ndcg: 1.8868528072345416
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: observations of the sun using radio interferometers
+  1. 9135
+X 2. 5599
+X 3. 6308
+X 4. 999
+X 5. 2621
+X 6. 1904
+X 7. 10815
+X 8. 1391
+X 9. 3451
+X 10. 10415
+  11. 1790
+  12. 3437
+X 13. 3448
+X 14. 8758
+  15. 6485
+  16. 6663
+  17. 4784
+X 18. 5397
+X 19. 4263
+X 20. 10416
+X 21. 6309
+X 22. 10256
+X 23. 3798
+X 24. 10259
+X 25. 4132
+Average Precision: 0.3939876708259061
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: observations of the sun using radio interferometers
+  0. 9135
+X 1. 5599
+X 2. 6308
+X 3. 999
+X 4. 2621
+X 5. 1904
+X 6. 10815
+X 7. 1391
+X 8. 3451
+X 9. 10415
+  10. 1790
+Precision at k: 0.2
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: observations of the sun using radio interferometers
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: observations of the sun using radio interferometers
+X 1. 5599
+X 3. 999
+X 5. 1904
+X 7. 1391
+X 9. 10415
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: equations governing the propagation of electromagnetic and hydromagnetic waves in the solar corona
+X 1. 1433
+  2. 3351
+X 3. 10981
+X 4. 9047
+X 5. 347
+X 6. 11130
+X 7. 1222
+X 8. 11128
+X 9. 6855
+X 10. 629
+X 11. 8058
+X 12. 2108
+X 13. 2486
+X 14. 4175
+X 15. 4698
+  16. 4007
+X 17. 9027
+X 18. 10280
+X 19. 7748
+X 20. 5793
+X 21. 9989
+  22. 5907
+  23. 1128
+X 24. 9894
+X 25. 9460
+Average Precision: 0.2338191699604743
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: equations governing the propagation of electromagnetic and hydromagnetic waves in the solar corona
+X 0. 1433
+  1. 3351
+X 2. 10981
+X 3. 9047
+X 4. 347
+X 5. 11130
+X 6. 1222
+X 7. 11128
+X 8. 6855
+X 9. 629
+X 10. 8058
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: equations governing the propagation of electromagnetic and hydromagnetic waves in the solar corona
+X 1. 1433
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: equations governing the propagation of electromagnetic and hydromagnetic waves in the solar corona
+  1. 3351
+X 3. 9047
+X 5. 11130
+X 7. 11128
+X 9. 629
+ndcg: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: estimates of the density of ionization and temperature in the solar corona
+  1. 7226
+  2. 5800
+  3. 8179
+  4. 2016
+X 5. 5907
+  6. 3111
+  7. 6842
+X 8. 5716
+X 9. 1650
+  10. 11108
+  11. 9135
+  12. 2632
+X 13. 2528
+  14. 6398
+  15. 8078
+  16. 7613
+  17. 1663
+  18. 3351
+  19. 88
+X 20. 7433
+X 21. 10716
+X 22. 2524
+X 23. 4508
+  24. 3807
+X 25. 8770
+Average Precision: 0.8164994985234921
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: estimates of the density of ionization and temperature in the solar corona
+  0. 7226
+  1. 5800
+  2. 8179
+  3. 2016
+X 4. 5907
+  5. 3111
+  6. 6842
+X 7. 5716
+X 8. 1650
+  9. 11108
+  10. 9135
+Precision at k: 0.8
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: estimates of the density of ionization and temperature in the solar corona
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: estimates of the density of ionization and temperature in the solar corona
+  1. 5800
+  3. 2016
+  5. 3111
+X 7. 5716
+  9. 11108
+ndcg: 2.187882802898523
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please send abstracts on the source spectra of lightning discharges
+X 1. 7653
+  2. 7774
+X 3. 9870
+  4. 124
+  5. 9160
+X 6. 10456
+X 7. 8225
+X 8. 4293
+  9. 8517
+X 10. 8519
+X 11. 6004
+X 12. 6037
+  13. 1154
+X 14. 6487
+X 15. 8790
+X 16. 1541
+  17. 3132
+X 18. 1448
+X 19. 3553
+  20. 9848
+X 21. 5007
+X 22. 1933
+X 23. 1125
+  24. 2779
+X 25. 1441
+Average Precision: 0.43316679235796884
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please send abstracts on the source spectra of lightning discharges
+X 0. 7653
+  1. 7774
+X 2. 9870
+  3. 124
+  4. 9160
+X 5. 10456
+X 6. 8225
+X 7. 4293
+  8. 8517
+X 9. 8519
+X 10. 6004
+Precision at k: 0.4
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please send abstracts on the source spectra of lightning discharges
+X 1. 7653
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please send abstracts on the source spectra of lightning discharges
+  1. 7774
+  3. 124
+X 5. 10456
+X 7. 4293
+X 9. 8519
+ndcg: 1.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the effect of small distortions in the surface of a cavity resonator
+X 1. 3616
+X 2. 3061
+  3. 8230
+  4. 5472
+X 5. 11087
+X 6. 1635
+  7. 7482
+X 8. 7093
+X 9. 4127
+X 10. 4434
+X 11. 5040
+X 12. 8824
+X 13. 9283
+X 14. 8945
+X 15. 8054
+X 16. 9413
+X 17. 7805
+X 18. 8822
+X 19. 9177
+X 20. 6893
+X 21. 11351
+X 22. 5151
+X 23. 3060
+X 24. 4052
+X 25. 8658
+Average Precision: 0.42063492063492064
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the effect of small distortions in the surface of a cavity resonator
+X 0. 3616
+X 1. 3061
+  2. 8230
+  3. 5472
+X 4. 11087
+X 5. 1635
+  6. 7482
+X 7. 7093
+X 8. 4127
+X 9. 4434
+X 10. 5040
+Precision at k: 0.3
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the effect of small distortions in the surface of a cavity resonator
+X 1. 3616
+X 2. 3061
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the effect of small distortions in the surface of a cavity resonator
+X 1. 3061
+  3. 5472
+X 5. 1635
+X 7. 7093
+X 9. 4434
+ndcg: 0.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the determination of the orbits of individual meteors by radio methods
+  1. 5394
+  2. 9133
+  3. 3004
+X 4. 11124
+X 5. 2513
+X 6. 9023
+X 7. 375
+X 8. 3230
+X 9. 2022
+X 10. 5801
+X 11. 3555
+X 12. 10007
+X 13. 4271
+X 14. 4876
+X 15. 9998
+X 16. 10273
+X 17. 9739
+X 18. 1019
+X 19. 10840
+X 20. 2393
+  21. 1403
+  22. 3343
+X 23. 9021
+X 24. 7036
+  25. 6018
+Average Precision: 0.6096248196248196
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the determination of the orbits of individual meteors by radio methods
+  0. 5394
+  1. 9133
+  2. 3004
+X 3. 11124
+X 4. 2513
+X 5. 9023
+X 6. 375
+X 7. 3230
+X 8. 2022
+X 9. 5801
+X 10. 3555
+Precision at k: 0.3
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the determination of the orbits of individual meteors by radio methods
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the determination of the orbits of individual meteors by radio methods
+  1. 9133
+X 3. 11124
+X 5. 9023
+X 7. 3230
+X 9. 5801
+ndcg: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the determination of ion masses in the ionosphere by the study of back scattered radio waves
+  1. 9511
+X 2. 5220
+X 3. 9510
+X 4. 3239
+X 5. 449
+X 6. 3822
+  7. 1284
+X 8. 10861
+X 9. 10246
+  10. 8782
+X 11. 1029
+X 12. 1415
+X 13. 10244
+X 14. 10987
+X 15. 9635
+X 16. 10278
+X 17. 1579
+X 18. 3573
+  19. 3464
+X 20. 7223
+X 21. 9001
+X 22. 2765
+X 23. 9463
+X 24. 1504
+X 25. 718
+Average Precision: 0.4490601503759398
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the determination of ion masses in the ionosphere by the study of back scattered radio waves
+  0. 9511
+X 1. 5220
+X 2. 9510
+X 3. 3239
+X 4. 449
+X 5. 3822
+  6. 1284
+X 7. 10861
+X 8. 10246
+  9. 8782
+X 10. 1029
+Precision at k: 0.3
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the determination of ion masses in the ionosphere by the study of back scattered radio waves
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the determination of ion masses in the ionosphere by the study of back scattered radio waves
+X 1. 5220
+X 3. 3239
+X 5. 3822
+X 7. 10861
+  9. 8782
+ndcg: 0.3010299956639812
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: theoretical studies of the source of high frequency radio waves emitted from the planet jupiter
+  1. 8615
+X 2. 8393
+X 3. 3104
+  4. 2742
+  5. 3553
+X 6. 10956
+X 7. 2110
+X 8. 1118
+X 9. 4491
+  10. 4875
+X 11. 207
+X 12. 10959
+X 13. 9128
+X 14. 9011
+X 15. 3239
+X 16. 9512
+X 17. 7604
+  18. 10095
+X 19. 10537
+X 20. 2358
+X 21. 10660
+  22. 4135
+X 23. 1616
+X 24. 9353
+X 25. 4268
+Average Precision: 0.5084175084175083
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: theoretical studies of the source of high frequency radio waves emitted from the planet jupiter
+  0. 8615
+X 1. 8393
+X 2. 3104
+  3. 2742
+  4. 3553
+X 5. 10956
+X 6. 2110
+X 7. 1118
+X 8. 4491
+  9. 4875
+X 10. 207
+Precision at k: 0.4
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: theoretical studies of the source of high frequency radio waves emitted from the planet jupiter
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: theoretical studies of the source of high frequency radio waves emitted from the planet jupiter
+X 1. 8393
+  3. 2742
+X 5. 10956
+X 7. 1118
+  9. 4875
+ndcg: 0.8010299956639813
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: simultaneous observations of whistlers and lightning discharges
+  1. 1822
+  2. 9160
+  3. 10456
+  4. 914
+X 5. 1448
+X 6. 8517
+X 7. 3930
+  8. 1703
+  9. 8790
+X 10. 5013
+X 11. 4293
+X 12. 4052
+X 13. 8516
+X 14. 1933
+X 15. 6004
+X 16. 6037
+X 17. 1154
+  18. 1705
+X 19. 1446
+X 20. 8788
+X 21. 10726
+X 22. 3829
+X 23. 3553
+X 24. 128
+X 25. 7774
+Average Precision: 0.8115079365079366
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: simultaneous observations of whistlers and lightning discharges
+  0. 1822
+  1. 9160
+  2. 10456
+  3. 914
+X 4. 1448
+X 5. 8517
+X 6. 3930
+  7. 1703
+  8. 8790
+X 9. 5013
+X 10. 4293
+Precision at k: 0.6
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: simultaneous observations of whistlers and lightning discharges
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: simultaneous observations of whistlers and lightning discharges
+  1. 9160
+  3. 914
+X 5. 8517
+  7. 1703
+X 9. 5013
+ndcg: 1.8333333333333333
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: variations in the height of reflection of low or very low frequency radio waves in the period before ground sunrise
+X 1. 1930
+  2. 6134
+X 3. 3470
+X 4. 7053
+X 5. 11128
+  6. 11262
+X 7. 10412
+X 8. 5099
+X 9. 7052
+X 10. 124
+X 11. 6331
+X 12. 6757
+X 13. 4174
+X 14. 4909
+X 15. 10830
+X 16. 4892
+  17. 9050
+X 18. 2963
+X 19. 8184
+X 20. 8769
+X 21. 11408
+X 22. 9849
+X 23. 1682
+X 24. 4285
+X 25. 5080
+Average Precision: 0.33660130718954245
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: variations in the height of reflection of low or very low frequency radio waves in the period before ground sunrise
+X 0. 1930
+  1. 6134
+X 2. 3470
+X 3. 7053
+X 4. 11128
+  5. 11262
+X 6. 10412
+X 7. 5099
+X 8. 7052
+X 9. 124
+X 10. 6331
+Precision at k: 0.2
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: variations in the height of reflection of low or very low frequency radio waves in the period before ground sunrise
+X 1. 1930
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: variations in the height of reflection of low or very low frequency radio waves in the period before ground sunrise
+  1. 6134
+X 3. 7053
+  5. 11262
+X 7. 5099
+X 9. 124
+ndcg: 1.3868528072345416
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of ionospheric cross modulation in the determination of ionospheric electron densities and collision frequencies
+X 1. 10993
+  2. 11263
+X 3. 5499
+X 4. 5614
+X 5. 2729
+X 6. 10126
+X 7. 7635
+X 8. 6035
+X 9. 7241
+X 10. 10850
+X 11. 242
+X 12. 4665
+X 13. 11269
+X 14. 9912
+X 15. 2279
+X 16. 9210
+X 17. 3822
+X 18. 8932
+X 19. 8627
+  20. 2413
+X 21. 10852
+X 22. 10851
+X 23. 9749
+X 24. 3572
+X 25. 749
+Average Precision: 0.3
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of ionospheric cross modulation in the determination of ionospheric electron densities and collision frequencies
+X 0. 10993
+  1. 11263
+X 2. 5499
+X 3. 5614
+X 4. 2729
+X 5. 10126
+X 6. 7635
+X 7. 6035
+X 8. 7241
+X 9. 10850
+X 10. 242
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of ionospheric cross modulation in the determination of ionospheric electron densities and collision frequencies
+X 1. 10993
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of ionospheric cross modulation in the determination of ionospheric electron densities and collision frequencies
+  1. 11263
+X 3. 5614
+X 5. 10126
+X 7. 6035
+X 9. 10850
+ndcg: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurements of ionospheric drifts near the equator
+  1. 2144
+  2. 3703
+  3. 1558
+X 4. 10297
+X 5. 11299
+  6. 3922
+X 7. 3568
+X 8. 1277
+  9. 10996
+X 10. 2032
+X 11. 3932
+X 12. 7336
+X 13. 5940
+X 14. 3586
+X 15. 9506
+  16. 9036
+  17. 10574
+  18. 369
+X 19. 225
+X 20. 579
+X 21. 8733
+X 22. 9041
+X 23. 4409
+X 24. 6326
+  25. 4510
+Average Precision: 0.6459368191721134
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurements of ionospheric drifts near the equator
+  0. 2144
+  1. 3703
+  2. 1558
+X 3. 10297
+X 4. 11299
+  5. 3922
+X 6. 3568
+X 7. 1277
+  8. 10996
+X 9. 2032
+X 10. 3932
+Precision at k: 0.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurements of ionospheric drifts near the equator
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: measurements of ionospheric drifts near the equator
+  1. 3703
+X 3. 10297
+  5. 3922
+X 7. 1277
+X 9. 2032
+ndcg: 1.3868528072345416
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of analogue computers in upper atmosphere theory
+X 1. 375
+  2. 2674
+X 3. 4885
+X 4. 774
+X 5. 3038
+X 6. 140
+X 7. 3717
+X 8. 3838
+X 9. 5140
+X 10. 7983
+X 11. 9060
+X 12. 5832
+X 13. 9768
+X 14. 1551
+X 15. 10438
+X 16. 10448
+X 17. 3453
+X 18. 5103
+X 19. 1457
+X 20. 3718
+X 21. 5737
+X 22. 9405
+X 23. 1141
+X 24. 2933
+X 25. 6599
+Average Precision: 0.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of analogue computers in upper atmosphere theory
+X 0. 375
+  1. 2674
+X 2. 4885
+X 3. 774
+X 4. 3038
+X 5. 140
+X 6. 3717
+X 7. 3838
+X 8. 5140
+X 9. 7983
+X 10. 9060
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of analogue computers in upper atmosphere theory
+X 1. 375
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of analogue computers in upper atmosphere theory
+  1. 2674
+X 3. 774
+X 5. 140
+X 7. 3838
+X 9. 7983
+ndcg: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of lunar radio reflections in investigations of the nature of the moons surface
+  1. 86
+  2. 2256
+  3. 9484
+X 4. 4025
+X 5. 3798
+  6. 1252
+  7. 8909
+  8. 10271
+  9. 9485
+  10. 9132
+X 11. 8784
+  12. 10973
+X 13. 7928
+X 14. 4386
+X 15. 1009
+  16. 1251
+  17. 1007
+X 18. 3799
+X 19. 4982
+X 20. 10261
+  21. 3441
+X 22. 492
+  23. 1008
+X 24. 5308
+X 25. 10114
+Average Precision: 0.7590334573071146
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of lunar radio reflections in investigations of the nature of the moons surface
+  0. 86
+  1. 2256
+  2. 9484
+X 3. 4025
+X 4. 3798
+  5. 1252
+  6. 8909
+  7. 10271
+  8. 9485
+  9. 9132
+X 10. 8784
+Precision at k: 0.8
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of lunar radio reflections in investigations of the nature of the moons surface
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of lunar radio reflections in investigations of the nature of the moons surface
+  1. 2256
+X 3. 4025
+  5. 1252
+  7. 10271
+  9. 9132
+ndcg: 2.021216136231856
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: what references on comparison between ground level and high altitude balloon cosmic ray results
+  1. 332
+X 2. 9623
+X 3. 4044
+  4. 2648
+X 5. 476
+  6. 10103
+  7. 10828
+  8. 1248
+  9. 10826
+X 10. 9624
+  11. 213
+X 12. 8738
+X 13. 2776
+X 14. 475
+X 15. 11280
+X 16. 9361
+X 17. 1801
+X 18. 9362
+X 19. 11240
+X 20. 581
+X 21. 11238
+X 22. 1003
+  23. 8736
+X 24. 8739
+X 25. 2378
+Average Precision: 0.6059106201769244
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: what references on comparison between ground level and high altitude balloon cosmic ray results
+  0. 332
+X 1. 9623
+X 2. 4044
+  3. 2648
+X 4. 476
+  5. 10103
+  6. 10828
+  7. 1248
+  8. 10826
+X 9. 9624
+  10. 213
+Precision at k: 0.7
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: what references on comparison between ground level and high altitude balloon cosmic ray results
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: what references on comparison between ground level and high altitude balloon cosmic ray results
+X 1. 9623
+  3. 2648
+  5. 10103
+  7. 1248
+X 9. 9624
+ndcg: 1.2201861405678749
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: what references on model experiments in aurora
+  1. 909
+X 2. 10143
+  3. 8295
+X 4. 9054
+X 5. 3242
+X 6. 6004
+X 7. 6037
+X 8. 8750
+X 9. 4513
+X 10. 2155
+X 11. 9656
+X 12. 8470
+X 13. 11246
+X 14. 3916
+X 15. 6498
+X 16. 5534
+X 17. 1702
+X 18. 2157
+X 19. 4240
+X 20. 1155
+X 21. 8417
+X 22. 7609
+X 23. 8320
+X 24. 5106
+X 25. 356
+Average Precision: 0.8333333333333333
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: what references on model experiments in aurora
+  0. 909
+X 1. 10143
+  2. 8295
+X 3. 9054
+X 4. 3242
+X 5. 6004
+X 6. 6037
+X 7. 8750
+X 8. 4513
+X 9. 2155
+X 10. 9656
+Precision at k: 0.2
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: what references on model experiments in aurora
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: what references on model experiments in aurora
+X 1. 10143
+X 3. 9054
+X 5. 6004
+X 7. 8750
+X 9. 2155
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: what references on integral spectrum of primary cosmic rays
+  1. 10112
+  2. 863
+  3. 10566
+X 4. 11240
+  5. 11121
+X 6. 733
+  7. 1783
+  8. 2744
+X 9. 8397
+X 10. 9483
+X 11. 11238
+X 12. 477
+X 13. 205
+  14. 9018
+  15. 9482
+X 16. 9624
+  17. 476
+  18. 10969
+  19. 2254
+  20. 475
+  21. 581
+X 22. 1901
+  23. 579
+X 24. 6662
+X 25. 2253
+Average Precision: 0.6992340719659335
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: what references on integral spectrum of primary cosmic rays
+  0. 10112
+  1. 863
+  2. 10566
+X 3. 11240
+  4. 11121
+X 5. 733
+  6. 1783
+  7. 2744
+X 8. 8397
+X 9. 9483
+X 10. 11238
+Precision at k: 0.6
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: what references on integral spectrum of primary cosmic rays
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: what references on integral spectrum of primary cosmic rays
+  1. 863
+X 3. 11240
+X 5. 733
+  7. 2744
+X 9. 9483
+ndcg: 1.3333333333333333
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: ferromagnetic techniques for computer stores
+X 1. 4186
+X 2. 9856
+X 3. 11292
+  4. 4709
+  5. 3037
+  6. 8805
+X 7. 5733
+X 8. 3942
+X 9. 4307
+X 10. 9069
+  11. 399
+  12. 2428
+X 13. 4316
+  14. 9403
+X 15. 6237
+X 16. 4308
+X 17. 395
+X 18. 4058
+X 19. 5132
+X 20. 5628
+X 21. 3479
+  22. 7876
+  23. 9930
+  24. 1055
+X 25. 1591
+Average Precision: 0.37776470711253324
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: ferromagnetic techniques for computer stores
+X 0. 4186
+X 1. 9856
+X 2. 11292
+  3. 4709
+  4. 3037
+  5. 8805
+X 6. 5733
+X 7. 3942
+X 8. 4307
+X 9. 9069
+  10. 399
+Precision at k: 0.4
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: ferromagnetic techniques for computer stores
+X 1. 4186
+X 2. 9856
+X 3. 11292
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: ferromagnetic techniques for computer stores
+X 1. 9856
+  3. 4709
+  5. 8805
+X 7. 3942
+X 9. 9069
+ndcg: 0.8868528072345416
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: solution of differential equations by computer
+  1. 5686
+  2. 263
+  3. 5444
+  4. 8101
+  5. 6514
+  6. 6424
+X 7. 5955
+X 8. 11042
+  9. 2450
+  10. 5137
+  11. 6515
+X 12. 2228
+  13. 4309
+  14. 6147
+X 15. 2094
+  16. 8422
+  17. 3948
+X 18. 8332
+X 19. 7873
+X 20. 1472
+X 21. 6232
+  22. 4062
+  23. 1713
+X 24. 8423
+X 25. 11343
+Average Precision: 0.8502765388443139
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: solution of differential equations by computer
+  0. 5686
+  1. 263
+  2. 5444
+  3. 8101
+  4. 6514
+  5. 6424
+X 6. 5955
+X 7. 11042
+  8. 2450
+  9. 5137
+  10. 6515
+Precision at k: 0.9
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: solution of differential equations by computer
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: solution of differential equations by computer
+  1. 263
+  3. 8101
+  5. 6424
+X 7. 11042
+  9. 5137
+ndcg: 2.187882802898523
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: efficiency of digital computers versus analogue computers in the solution of boundary value problems
+  1. 6232
+X 2. 2933
+  3. 5832
+  4. 4309
+X 5. 9768
+X 6. 141
+X 7. 5955
+X 8. 1157
+X 9. 3601
+X 10. 263
+X 11. 11024
+X 12. 3039
+X 13. 6516
+X 14. 4522
+X 15. 3948
+X 16. 4360
+X 17. 4066
+X 18. 4421
+X 19. 2484
+X 20. 7873
+X 21. 140
+  22. 2450
+X 23. 3252
+X 24. 3374
+X 25. 5449
+Average Precision: 0.649621212121212
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: efficiency of digital computers versus analogue computers in the solution of boundary value problems
+  0. 6232
+X 1. 2933
+  2. 5832
+  3. 4309
+X 4. 9768
+X 5. 141
+X 6. 5955
+X 7. 1157
+X 8. 3601
+X 9. 263
+X 10. 11024
+Precision at k: 0.3
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: efficiency of digital computers versus analogue computers in the solution of boundary value problems
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: efficiency of digital computers versus analogue computers in the solution of boundary value problems
+X 1. 2933
+  3. 4309
+X 5. 141
+X 7. 1157
+X 9. 263
+ndcg: 0.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of error checking in digital computers
+  1. 7989
+  2. 6512
+  3. 8099
+X 4. 10356
+X 5. 3040
+  6. 3595
+X 7. 2429
+X 8. 11292
+X 9. 2040
+  10. 2041
+  11. 2928
+X 12. 6422
+X 13. 2292
+X 14. 5453
+X 15. 4308
+X 16. 1713
+X 17. 267
+X 18. 4526
+X 19. 7875
+X 20. 9768
+X 21. 263
+X 22. 3139
+X 23. 8425
+X 24. 3144
+X 25. 2173
+Average Precision: 0.7853535353535351
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of error checking in digital computers
+  0. 7989
+  1. 6512
+  2. 8099
+X 3. 10356
+X 4. 3040
+  5. 3595
+X 6. 2429
+X 7. 11292
+X 8. 2040
+  9. 2041
+  10. 2928
+Precision at k: 0.6
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of error checking in digital computers
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of error checking in digital computers
+  1. 6512
+X 3. 10356
+  5. 3595
+X 7. 11292
+  9. 2041
+ndcg: 1.6878828028985229
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of producing minimal nets given a logical function in canonical form
+  1. 3941
+  2. 10324
+X 3. 1590
+X 4. 5431
+X 5. 274
+  6. 4195
+X 7. 938
+X 8. 11025
+X 9. 6158
+X 10. 9412
+X 11. 8644
+X 12. 3484
+X 13. 2969
+X 14. 5844
+X 15. 10739
+X 16. 5129
+X 17. 2051
+X 18. 4828
+X 19. 8948
+X 20. 10616
+X 21. 9536
+X 22. 9404
+X 23. 6238
+X 24. 2932
+X 25. 3969
+Average Precision: 0.8333333333333334
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of producing minimal nets given a logical function in canonical form
+  0. 3941
+  1. 10324
+X 2. 1590
+X 3. 5431
+X 4. 274
+  5. 4195
+X 6. 938
+X 7. 11025
+X 8. 6158
+X 9. 9412
+X 10. 8644
+Precision at k: 0.3
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of producing minimal nets given a logical function in canonical form
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: methods of producing minimal nets given a logical function in canonical form
+  1. 10324
+X 3. 5431
+  5. 4195
+X 7. 11025
+X 9. 9412
+ndcg: 1.3868528072345416
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: arithmetic units as required in a digital computer including shift registers serial and parallel adder
+  1. 3599
+  2. 6237
+  3. 3143
+  4. 8099
+  5. 8806
+  6. 5237
+X 7. 4058
+  8. 6337
+  9. 4312
+  10. 7877
+  11. 3940
+  12. 3939
+  13. 7988
+  14. 4059
+X 15. 4307
+  16. 147
+  17. 6052
+X 18. 5440
+X 19. 3251
+  20. 8531
+  21. 1586
+X 22. 2696
+  23. 3485
+X 24. 2928
+  25. 4057
+Average Precision: 0.907935803297225
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: arithmetic units as required in a digital computer including shift registers serial and parallel adder
+  0. 3599
+  1. 6237
+  2. 3143
+  3. 8099
+  4. 8806
+  5. 5237
+X 6. 4058
+  7. 6337
+  8. 4312
+  9. 7877
+  10. 3940
+Precision at k: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: arithmetic units as required in a digital computer including shift registers serial and parallel adder
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: arithmetic units as required in a digital computer including shift registers serial and parallel adder
+  1. 6237
+  3. 8099
+  5. 5237
+  7. 6337
+  9. 7877
+ndcg: 2.5212161362318564
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: information on the design of low drift transistor amplifiers
+X 1. 10636
+  2. 11326
+X 3. 3529
+  4. 1299
+  5. 1487
+  6. 10365
+X 7. 6272
+  8. 2084
+X 9. 10505
+X 10. 4453
+  11. 11327
+X 12. 176
+  13. 3754
+X 14. 1628
+X 15. 2210
+  16. 133
+  17. 1626
+  18. 2465
+X 19. 4215
+X 20. 5488
+  21. 3755
+X 22. 5274
+  23. 5887
+X 24. 4421
+X 25. 2085
+Average Precision: 0.5505082270907079
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: information on the design of low drift transistor amplifiers
+X 0. 10636
+  1. 11326
+X 2. 3529
+  3. 1299
+  4. 1487
+  5. 10365
+X 6. 6272
+  7. 2084
+X 8. 10505
+X 9. 4453
+  10. 11327
+Precision at k: 0.6
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: information on the design of low drift transistor amplifiers
+X 1. 10636
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: information on the design of low drift transistor amplifiers
+  1. 11326
+  3. 1299
+  5. 10365
+  7. 2084
+X 9. 4453
+ndcg: 2.220186140567875
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: information on high current transistor switches
+X 1. 151
+  2. 2178
+X 3. 4302
+  4. 776
+X 5. 10024
+X 6. 3145
+X 7. 8651
+X 8. 924
+X 9. 10479
+X 10. 1842
+X 11. 1054
+X 12. 1604
+X 13. 3053
+X 14. 3833
+X 15. 5760
+X 16. 5348
+X 17. 7886
+  18. 1934
+X 19. 136
+X 20. 3409
+X 21. 3610
+X 22. 6248
+X 23. 3755
+X 24. 4213
+X 25. 7797
+Average Precision: 0.3888888888888889
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: information on high current transistor switches
+X 0. 151
+  1. 2178
+X 2. 4302
+  3. 776
+X 4. 10024
+X 5. 3145
+X 6. 8651
+X 7. 924
+X 8. 10479
+X 9. 1842
+X 10. 1054
+Precision at k: 0.2
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: information on high current transistor switches
+X 1. 151
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: information on high current transistor switches
+  1. 2178
+  3. 776
+X 5. 3145
+X 7. 924
+X 9. 1842
+ndcg: 1.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: information on design of time division multiplexing circuits
+  1. 4209
+  2. 5349
+  3. 3536
+X 4. 3045
+X 5. 1078
+X 6. 2432
+X 7. 4595
+X 8. 9925
+X 9. 222
+  10. 1159
+X 11. 4316
+X 12. 2956
+X 13. 2975
+X 14. 5276
+X 15. 639
+X 16. 922
+X 17. 6885
+X 18. 4100
+X 19. 4736
+X 20. 5450
+X 21. 8648
+X 22. 8134
+X 23. 10636
+X 24. 790
+X 25. 9076
+Average Precision: 0.85
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: information on design of time division multiplexing circuits
+  0. 4209
+  1. 5349
+  2. 3536
+X 3. 3045
+X 4. 1078
+X 5. 2432
+X 6. 4595
+X 7. 9925
+X 8. 222
+  9. 1159
+X 10. 4316
+Precision at k: 0.4
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: information on design of time division multiplexing circuits
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: information on design of time division multiplexing circuits
+  1. 5349
+X 3. 3045
+X 5. 2432
+X 7. 9925
+  9. 1159
+ndcg: 1.3010299956639813
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: details of available low voltage capacitors
+X 1. 1607
+X 2. 6106
+X 3. 1845
+X 4. 6417
+X 5. 2948
+X 6. 7676
+X 7. 396
+X 8. 7039
+X 9. 9409
+X 10. 2348
+X 11. 1192
+X 12. 5888
+X 13. 10034
+X 14. 771
+X 15. 10181
+X 16. 5728
+X 17. 5031
+X 18. 4085
+X 19. 5727
+X 20. 6905
+X 21. 7246
+X 22. 3880
+X 23. 10153
+X 24. 4072
+X 25. 1824
+Average Precision: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: details of available low voltage capacitors
+X 0. 1607
+X 1. 6106
+X 2. 1845
+X 3. 6417
+X 4. 2948
+X 5. 7676
+X 6. 396
+X 7. 7039
+X 8. 9409
+X 9. 2348
+X 10. 1192
+Precision at k: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: details of available low voltage capacitors
+X 1. 1607
+X 2. 6106
+X 3. 1845
+X 4. 6417
+X 5. 2948
+X 6. 7676
+X 7. 396
+X 8. 7039
+X 9. 9409
+X 10. 2348
+X 11. 1192
+X 12. 5888
+X 13. 10034
+X 14. 771
+X 15. 10181
+X 16. 5728
+X 17. 5031
+X 18. 4085
+X 19. 5727
+X 20. 6905
+X 21. 7246
+X 22. 3880
+X 23. 10153
+X 24. 4072
+X 25. 1824
+Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: details of available low voltage capacitors
+X 1. 6106
+X 3. 6417
+X 5. 7676
+X 7. 7039
+X 9. 2348
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: design of direct coupled flip flops to function with the maximum variations in the values of the circuit components
+X 1. 3163
+  2. 6878
+  3. 8223
+  4. 5551
+  5. 7074
+  6. 6245
+X 7. 5868
+  8. 5030
+X 9. 4825
+X 10. 3166
+X 11. 10357
+X 12. 1329
+X 13. 7796
+X 14. 3165
+X 15. 8436
+X 16. 2816
+X 17. 9298
+  18. 7717
+X 19. 3626
+X 20. 5870
+X 21. 6053
+X 22. 11194
+X 23. 9299
+X 24. 6157
+X 25. 7797
+Average Precision: 0.66984126984127
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: design of direct coupled flip flops to function with the maximum variations in the values of the circuit components
+X 0. 3163
+  1. 6878
+  2. 8223
+  3. 5551
+  4. 7074
+  5. 6245
+X 6. 5868
+  7. 5030
+X 8. 4825
+X 9. 3166
+X 10. 10357
+Precision at k: 0.6
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: design of direct coupled flip flops to function with the maximum variations in the values of the circuit components
+X 1. 3163
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: design of direct coupled flip flops to function with the maximum variations in the values of the circuit components
+  1. 6878
+  3. 5551
+  5. 6245
+  7. 5030
+X 9. 3166
+ndcg: 2.220186140567875
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please supply information on the performance of typical magnetic film memory systems with circuit diagrams
+  1. 9070
+  2. 9403
+X 3. 7653
+X 4. 2291
+  5. 2679
+  6. 11170
+X 7. 8950
+X 8. 1158
+X 9. 399
+  10. 9277
+  11. 9278
+X 12. 1837
+X 13. 5446
+  14. 8810
+X 15. 11293
+X 16. 5458
+X 17. 4589
+X 18. 5760
+X 19. 9870
+  20. 10163
+X 21. 7188
+X 22. 10736
+X 23. 5452
+X 24. 2790
+X 25. 3142
+Average Precision: 0.6515151515151516
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please supply information on the performance of typical magnetic film memory systems with circuit diagrams
+  0. 9070
+  1. 9403
+X 2. 7653
+X 3. 2291
+  4. 2679
+  5. 11170
+X 6. 8950
+X 7. 1158
+X 8. 399
+  9. 9277
+  10. 9278
+Precision at k: 0.6
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please supply information on the performance of typical magnetic film memory systems with circuit diagrams
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please supply information on the performance of typical magnetic film memory systems with circuit diagrams
+  1. 9403
+X 3. 2291
+  5. 11170
+X 7. 1158
+  9. 9277
+ndcg: 1.6878828028985229
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i would like details of the work which has been done to extend the frequency range of magnetic amplifiers
+X 1. 2977
+X 2. 2080
+X 3. 1816
+X 4. 6414
+X 5. 2336
+X 6. 1754
+X 7. 6713
+X 8. 9198
+  9. 8569
+  10. 8561
+X 11. 2579
+  12. 9967
+X 13. 10793
+X 14. 5462
+X 15. 5045
+X 16. 9349
+X 17. 10763
+X 18. 5054
+  19. 9877
+X 20. 6716
+X 21. 673
+X 22. 3171
+X 23. 4095
+X 24. 6908
+X 25. 3512
+Average Precision: 0.1929093567251462
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i would like details of the work which has been done to extend the frequency range of magnetic amplifiers
+X 0. 2977
+X 1. 2080
+X 2. 1816
+X 3. 6414
+X 4. 2336
+X 5. 1754
+X 6. 6713
+X 7. 9198
+  8. 8569
+  9. 8561
+X 10. 2579
+Precision at k: 0.2
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i would like details of the work which has been done to extend the frequency range of magnetic amplifiers
+X 1. 2977
+X 2. 2080
+X 3. 1816
+X 4. 6414
+X 5. 2336
+X 6. 1754
+X 7. 6713
+X 8. 9198
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i would like details of the work which has been done to extend the frequency range of magnetic amplifiers
+X 1. 2080
+X 3. 6414
+X 5. 1754
+X 7. 9198
+  9. 8561
+ndcg: 0.3010299956639812
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i would like information on the range of static relays suitable for use at high switching rates
+  1. 8652
+  2. 1455
+  3. 8951
+X 4. 7790
+  5. 924
+X 6. 4302
+X 7. 776
+X 8. 3475
+X 9. 1604
+X 10. 10479
+X 11. 2446
+X 12. 2685
+X 13. 1841
+X 14. 10616
+X 15. 812
+X 16. 7039
+X 17. 7265
+X 18. 4213
+X 19. 10031
+  20. 1458
+X 21. 4099
+X 22. 5261
+X 23. 3409
+X 24. 1939
+X 25. 10332
+Average Precision: 0.8099999999999999
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i would like information on the range of static relays suitable for use at high switching rates
+  0. 8652
+  1. 1455
+  2. 8951
+X 3. 7790
+  4. 924
+X 5. 4302
+X 6. 776
+X 7. 3475
+X 8. 1604
+X 9. 10479
+X 10. 2446
+Precision at k: 0.4
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i would like information on the range of static relays suitable for use at high switching rates
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i would like information on the range of static relays suitable for use at high switching rates
+  1. 1455
+X 3. 7790
+X 5. 4302
+X 7. 3475
+X 9. 10479
+ndcg: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i am interested in circuitry capable of generating extremely narrow pulses
+X 1. 10631
+  2. 949
+  3. 30
+  4. 2076
+X 5. 2698
+X 6. 3978
+X 7. 4305
+X 8. 8556
+X 9. 5375
+X 10. 3036
+X 11. 1172
+X 12. 2451
+X 13. 9301
+X 14. 1720
+X 15. 661
+X 16. 6103
+X 17. 3516
+X 18. 5178
+X 19. 9302
+X 20. 3857
+X 21. 10022
+X 22. 9880
+X 23. 3744
+X 24. 10200
+X 25. 6711
+Average Precision: 0.6388888888888888
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i am interested in circuitry capable of generating extremely narrow pulses
+X 0. 10631
+  1. 949
+  2. 30
+  3. 2076
+X 4. 2698
+X 5. 3978
+X 6. 4305
+X 7. 8556
+X 8. 5375
+X 9. 3036
+X 10. 1172
+Precision at k: 0.3
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i am interested in circuitry capable of generating extremely narrow pulses
+X 1. 10631
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i am interested in circuitry capable of generating extremely narrow pulses
+  1. 949
+  3. 2076
+X 5. 3978
+X 7. 8556
+X 9. 3036
+ndcg: 1.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please supply information on the theory and use of parametric amplifiers
+  1. 1497
+X 2. 5488
+  3. 442
+  4. 808
+  5. 1200
+  6. 1091
+X 7. 3348
+  8. 10776
+X 9. 3416
+X 10. 8978
+X 11. 540
+X 12. 10638
+X 13. 9315
+X 14. 7653
+  15. 8686
+X 16. 3366
+  17. 9091
+X 18. 1204
+X 19. 2651
+X 20. 9094
+X 21. 10209
+  22. 678
+X 23. 1754
+X 24. 8975
+X 25. 10063
+Average Precision: 0.6829273123390771
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please supply information on the theory and use of parametric amplifiers
+  0. 1497
+X 1. 5488
+  2. 442
+  3. 808
+  4. 1200
+  5. 1091
+X 6. 3348
+  7. 10776
+X 8. 3416
+X 9. 8978
+X 10. 540
+Precision at k: 0.6
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please supply information on the theory and use of parametric amplifiers
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please supply information on the theory and use of parametric amplifiers
+X 1. 5488
+  3. 808
+  5. 1091
+  7. 10776
+X 9. 8978
+ndcg: 1.2201861405678749
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the synthesis of networks with given sampled data transfer functions
+X 1. 7697
+X 2. 4204
+X 3. 6970
+X 4. 10336
+X 5. 9851
+X 6. 9796
+X 7. 7695
+  8. 4412
+X 9. 6782
+X 10. 9692
+X 11. 7173
+X 12. 4074
+  13. 6138
+X 14. 9794
+X 15. 6448
+X 16. 3849
+X 17. 782
+X 18. 1313
+X 19. 2192
+  20. 1049
+X 21. 9175
+X 22. 7280
+X 23. 5973
+X 24. 7178
+X 25. 7078
+Average Precision: 0.14294871794871797
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the synthesis of networks with given sampled data transfer functions
+X 0. 7697
+X 1. 4204
+X 2. 6970
+X 3. 10336
+X 4. 9851
+X 5. 9796
+X 6. 7695
+  7. 4412
+X 8. 6782
+X 9. 9692
+X 10. 7173
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the synthesis of networks with given sampled data transfer functions
+X 1. 7697
+X 2. 4204
+X 3. 6970
+X 4. 10336
+X 5. 9851
+X 6. 9796
+X 7. 7695
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the synthesis of networks with given sampled data transfer functions
+X 1. 4204
+X 3. 10336
+X 5. 9796
+  7. 4412
+X 9. 9692
+ndcg: 0.3333333333333333
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the theory of stability in relation to control systems with relay elements
+X 1. 9558
+X 2. 7067
+X 3. 8206
+X 4. 1455
+X 5. 8951
+X 6. 8198
+X 7. 8950
+X 8. 11164
+X 9. 6866
+X 10. 1584
+X 11. 8103
+X 12. 9073
+X 13. 129
+X 14. 5536
+X 15. 1297
+X 16. 6858
+X 17. 5729
+X 18. 921
+X 19. 3361
+X 20. 6864
+X 21. 1848
+X 22. 4346
+X 23. 4617
+X 24. 4013
+  25. 6857
+Average Precision: 0.04
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the theory of stability in relation to control systems with relay elements
+X 0. 9558
+X 1. 7067
+X 2. 8206
+X 3. 1455
+X 4. 8951
+X 5. 8198
+X 6. 8950
+X 7. 11164
+X 8. 6866
+X 9. 1584
+X 10. 8103
+Precision at k: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the theory of stability in relation to control systems with relay elements
+X 1. 9558
+X 2. 7067
+X 3. 8206
+X 4. 1455
+X 5. 8951
+X 6. 8198
+X 7. 8950
+X 8. 11164
+X 9. 6866
+X 10. 1584
+X 11. 8103
+X 12. 9073
+X 13. 129
+X 14. 5536
+X 15. 1297
+X 16. 6858
+X 17. 5729
+X 18. 921
+X 19. 3361
+X 20. 6864
+X 21. 1848
+X 22. 4346
+X 23. 4617
+X 24. 4013
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the theory of stability in relation to control systems with relay elements
+X 1. 7067
+X 3. 1455
+X 5. 8198
+X 7. 11164
+X 9. 1584
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of digital computers to obtain power spectral analysis of numerical data
+X 1. 5441
+X 2. 10323
+X 3. 4069
+X 4. 4710
+X 5. 3372
+X 6. 9670
+X 7. 2294
+X 8. 10368
+X 9. 2292
+X 10. 6422
+X 11. 2041
+X 12. 267
+X 13. 4526
+X 14. 7989
+X 15. 7875
+X 16. 9768
+X 17. 3144
+X 18. 4183
+X 19. 2173
+X 20. 9788
+X 21. 4705
+X 22. 2429
+X 23. 639
+X 24. 2180
+X 25. 5542
+Average Precision: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of digital computers to obtain power spectral analysis of numerical data
+X 0. 5441
+X 1. 10323
+X 2. 4069
+X 3. 4710
+X 4. 3372
+X 5. 9670
+X 6. 2294
+X 7. 10368
+X 8. 2292
+X 9. 6422
+X 10. 2041
+Precision at k: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of digital computers to obtain power spectral analysis of numerical data
+X 1. 5441
+X 2. 10323
+X 3. 4069
+X 4. 4710
+X 5. 3372
+X 6. 9670
+X 7. 2294
+X 8. 10368
+X 9. 2292
+X 10. 6422
+X 11. 2041
+X 12. 267
+X 13. 4526
+X 14. 7989
+X 15. 7875
+X 16. 9768
+X 17. 3144
+X 18. 4183
+X 19. 2173
+X 20. 9788
+X 21. 4705
+X 22. 2429
+X 23. 639
+X 24. 2180
+X 25. 5542
+Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of digital computers to obtain power spectral analysis of numerical data
+X 1. 10323
+X 3. 4710
+X 5. 9670
+X 7. 10368
+X 9. 6422
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: printed circuit design for a random pulse generator of low frequency
+X 1. 949
+X 2. 1619
+X 3. 4444
+  4. 10503
+X 5. 2321
+  6. 10182
+X 7. 9704
+X 8. 645
+X 9. 3489
+X 10. 9705
+X 11. 3516
+X 12. 6106
+X 13. 1077
+X 14. 1737
+X 15. 5577
+X 16. 8000
+X 17. 5569
+X 18. 7918
+X 19. 31
+X 20. 3478
+X 21. 7905
+X 22. 3959
+X 23. 10352
+X 24. 8560
+X 25. 3050
+Average Precision: 0.29166666666666663
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: printed circuit design for a random pulse generator of low frequency
+X 0. 949
+X 1. 1619
+X 2. 4444
+  3. 10503
+X 4. 2321
+  5. 10182
+X 6. 9704
+X 7. 645
+X 8. 3489
+X 9. 9705
+X 10. 3516
+Precision at k: 0.2
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: printed circuit design for a random pulse generator of low frequency
+X 1. 949
+X 2. 1619
+X 3. 4444
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: printed circuit design for a random pulse generator of low frequency
+X 1. 1619
+  3. 10503
+  5. 10182
+X 7. 645
+X 9. 9705
+ndcg: 0.8868528072345416
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: references on electric field theories of the aurora
+  1. 2280
+  2. 8294
+  3. 7065
+X 4. 6191
+X 5. 1580
+X 6. 6477
+  7. 2155
+X 8. 7120
+  9. 9054
+X 10. 8293
+  11. 4148
+X 12. 5534
+X 13. 3321
+  14. 10686
+X 15. 3242
+X 16. 8295
+  17. 10869
+X 18. 10518
+X 19. 6939
+X 20. 3659
+X 21. 9655
+X 22. 2102
+X 23. 5891
+X 24. 8361
+X 25. 2595
+Average Precision: 0.7053783634665987
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: references on electric field theories of the aurora
+  0. 2280
+  1. 8294
+  2. 7065
+X 3. 6191
+X 4. 1580
+X 5. 6477
+  6. 2155
+X 7. 7120
+  8. 9054
+X 9. 8293
+  10. 4148
+Precision at k: 0.6
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: references on electric field theories of the aurora
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: references on electric field theories of the aurora
+  1. 8294
+X 3. 6191
+X 5. 6477
+X 7. 7120
+X 9. 8293
+ndcg: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: fast transistor counters
+  1. 10357
+X 2. 8962
+  3. 8341
+  4. 1966
+  5. 7267
+X 6. 4711
+  7. 6776
+  8. 11321
+X 9. 10356
+  10. 5645
+X 11. 9775
+X 12. 3979
+X 13. 6508
+X 14. 8806
+  15. 11322
+X 16. 533
+X 17. 2567
+  18. 1619
+  19. 6
+  20. 4735
+  21. 9298
+X 22. 2697
+X 23. 3610
+X 24. 10355
+X 25. 6859
+Average Precision: 0.6718358395989975
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: fast transistor counters
+  0. 10357
+X 1. 8962
+  2. 8341
+  3. 1966
+  4. 7267
+X 5. 4711
+  6. 6776
+  7. 11321
+X 8. 10356
+  9. 5645
+X 10. 9775
+Precision at k: 0.7
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: fast transistor counters
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: fast transistor counters
+X 1. 8962
+  3. 1966
+X 5. 4711
+  7. 11321
+  9. 5645
+ndcg: 1.1343633289973145
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: low pass lattice filters
+  1. 9951
+  2. 10755
+  3. 9698
+X 4. 9419
+  5. 10175
+X 6. 525
+  7. 10039
+  8. 10339
+  9. 7375
+  10. 10756
+X 11. 5663
+X 12. 1612
+X 13. 6888
+X 14. 7573
+X 15. 7086
+  16. 10486
+X 17. 5980
+  18. 11311
+X 19. 5250
+X 20. 5856
+X 21. 1954
+X 22. 3395
+X 23. 6087
+X 24. 3506
+X 25. 4833
+Average Precision: 0.7960119047619048
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: low pass lattice filters
+  0. 9951
+  1. 10755
+  2. 9698
+X 3. 9419
+  4. 10175
+X 5. 525
+  6. 10039
+  7. 10339
+  8. 7375
+  9. 10756
+X 10. 5663
+Precision at k: 0.8
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: low pass lattice filters
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: low pass lattice filters
+  1. 10755
+X 3. 9419
+X 5. 525
+  7. 10339
+  9. 10756
+ndcg: 1.6343633289973145
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: similarities between the diffraction theory of electromagnetic waves and that of electron streams
+X 1. 201
+X 2. 2607
+X 3. 6836
+X 4. 9000
+X 5. 9732
+X 6. 9896
+X 7. 6295
+X 8. 1778
+X 9. 2733
+X 10. 8876
+X 11. 10925
+X 12. 4019
+X 13. 5697
+X 14. 1234
+X 15. 8589
+  16. 982
+X 17. 3904
+X 18. 6376
+X 19. 11016
+X 20. 7605
+X 21. 8877
+X 22. 6468
+X 23. 1773
+X 24. 568
+X 25. 2103
+Average Precision: 0.0625
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: similarities between the diffraction theory of electromagnetic waves and that of electron streams
+X 0. 201
+X 1. 2607
+X 2. 6836
+X 3. 9000
+X 4. 9732
+X 5. 9896
+X 6. 6295
+X 7. 1778
+X 8. 2733
+X 9. 8876
+X 10. 10925
+Precision at k: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: similarities between the diffraction theory of electromagnetic waves and that of electron streams
+X 1. 201
+X 2. 2607
+X 3. 6836
+X 4. 9000
+X 5. 9732
+X 6. 9896
+X 7. 6295
+X 8. 1778
+X 9. 2733
+X 10. 8876
+X 11. 10925
+X 12. 4019
+X 13. 5697
+X 14. 1234
+X 15. 8589
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: similarities between the diffraction theory of electromagnetic waves and that of electron streams
+X 1. 2607
+X 3. 9000
+X 5. 9896
+X 7. 1778
+X 9. 8876
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of complex variables in the theory of communication networks
+  1. 5470
+X 2. 21
+  3. 6783
+X 4. 3392
+X 5. 4828
+X 6. 10169
+X 7. 4631
+X 8. 7691
+X 9. 8324
+X 10. 7562
+X 11. 9553
+X 12. 2224
+X 13. 4244
+X 14. 9098
+X 15. 6068
+X 16. 4836
+X 17. 10629
+X 18. 3062
+X 19. 4074
+X 20. 2194
+X 21. 2561
+X 22. 7463
+X 23. 7078
+X 24. 7280
+X 25. 9426
+Average Precision: 0.8333333333333333
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of complex variables in the theory of communication networks
+  0. 5470
+X 1. 21
+  2. 6783
+X 3. 3392
+X 4. 4828
+X 5. 10169
+X 6. 4631
+X 7. 7691
+X 8. 8324
+X 9. 7562
+X 10. 9553
+Precision at k: 0.2
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of complex variables in the theory of communication networks
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the use of complex variables in the theory of communication networks
+X 1. 21
+X 3. 3392
+X 5. 10169
+X 7. 7691
+X 9. 7562
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the behaviour of a beam of charged particles in the presence of plane conductors
+X 1. 8873
+X 2. 1511
+X 3. 8590
+X 4. 7509
+X 5. 9453
+X 6. 4367
+X 7. 6640
+X 8. 8598
+X 9. 3130
+X 10. 721
+X 11. 1328
+X 12. 1509
+X 13. 4553
+X 14. 11083
+X 15. 6580
+X 16. 9439
+X 17. 9728
+X 18. 10797
+X 19. 2222
+X 20. 561
+X 21. 6109
+X 22. 6470
+X 23. 11308
+X 24. 2229
+X 25. 2093
+Average Precision: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the behaviour of a beam of charged particles in the presence of plane conductors
+X 0. 8873
+X 1. 1511
+X 2. 8590
+X 3. 7509
+X 4. 9453
+X 5. 4367
+X 6. 6640
+X 7. 8598
+X 8. 3130
+X 9. 721
+X 10. 1328
+Precision at k: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the behaviour of a beam of charged particles in the presence of plane conductors
+X 1. 8873
+X 2. 1511
+X 3. 8590
+X 4. 7509
+X 5. 9453
+X 6. 4367
+X 7. 6640
+X 8. 8598
+X 9. 3130
+X 10. 721
+X 11. 1328
+X 12. 1509
+X 13. 4553
+X 14. 11083
+X 15. 6580
+X 16. 9439
+X 17. 9728
+X 18. 10797
+X 19. 2222
+X 20. 561
+X 21. 6109
+X 22. 6470
+X 23. 11308
+X 24. 2229
+X 25. 2093
+Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the behaviour of a beam of charged particles in the presence of plane conductors
+X 1. 1511
+X 3. 7509
+X 5. 4367
+X 7. 8598
+X 9. 721
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: predicting the paths of electrons moving in a varying magnetic field
+X 1. 6641
+X 2. 10381
+  3. 1379
+X 4. 4902
+X 5. 2731
+X 6. 2989
+  7. 6642
+X 8. 11073
+X 9. 563
+X 10. 3950
+X 11. 2845
+X 12. 1233
+X 13. 5306
+X 14. 6649
+X 15. 8602
+  16. 5086
+X 17. 4978
+X 18. 2765
+X 19. 6114
+X 20. 8036
+  21. 10533
+X 22. 4124
+X 23. 1266
+X 24. 10813
+X 25. 10088
+Average Precision: 0.24925595238095238
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: predicting the paths of electrons moving in a varying magnetic field
+X 0. 6641
+X 1. 10381
+  2. 1379
+X 3. 4902
+X 4. 2731
+X 5. 2989
+  6. 6642
+X 7. 11073
+X 8. 563
+X 9. 3950
+X 10. 2845
+Precision at k: 0.2
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: predicting the paths of electrons moving in a varying magnetic field
+X 1. 6641
+X 2. 10381
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: predicting the paths of electrons moving in a varying magnetic field
+X 1. 10381
+X 3. 4902
+X 5. 2989
+X 7. 11073
+X 9. 3950
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: active constant voltage transformer for signal distribution
+  1. 4190
+  2. 3065
+X 3. 1828
+X 4. 4301
+X 5. 6438
+  6. 7262
+X 7. 3832
+X 8. 7071
+X 9. 1830
+X 10. 9264
+X 11. 6210
+X 12. 6240
+X 13. 4342
+X 14. 7829
+X 15. 3032
+X 16. 7489
+X 17. 2796
+X 18. 10685
+X 19. 3813
+  20. 8005
+X 21. 6461
+X 22. 6440
+X 23. 6143
+X 24. 1049
+X 25. 3831
+Average Precision: 0.675
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: active constant voltage transformer for signal distribution
+  0. 4190
+  1. 3065
+X 2. 1828
+X 3. 4301
+X 4. 6438
+  5. 7262
+X 6. 3832
+X 7. 7071
+X 8. 1830
+X 9. 9264
+X 10. 6210
+Precision at k: 0.3
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: active constant voltage transformer for signal distribution
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: active constant voltage transformer for signal distribution
+  1. 3065
+X 3. 4301
+  5. 7262
+X 7. 7071
+X 9. 9264
+ndcg: 1.3868528072345416
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: active audio frequency filter with variable cut off slope
+  1. 4612
+X 2. 4205
+  3. 1954
+X 4. 9183
+  5. 4438
+  6. 3504
+  7. 10043
+X 8. 7475
+X 9. 5861
+X 10. 9799
+  11. 5044
+X 12. 8830
+X 13. 2460
+  14. 5753
+X 15. 9566
+X 16. 525
+X 17. 10756
+X 18. 9420
+X 19. 3506
+X 20. 7086
+X 21. 5249
+X 22. 11191
+X 23. 10044
+  24. 11312
+X 25. 6815
+Average Precision: 0.6283008658008657
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: active audio frequency filter with variable cut off slope
+  0. 4612
+X 1. 4205
+  2. 1954
+X 3. 9183
+  4. 4438
+  5. 3504
+  6. 10043
+X 7. 7475
+X 8. 5861
+X 9. 9799
+  10. 5044
+Precision at k: 0.6
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: active audio frequency filter with variable cut off slope
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: active audio frequency filter with variable cut off slope
+X 1. 4205
+X 3. 9183
+  5. 3504
+X 7. 7475
+X 9. 9799
+ndcg: 0.38685280723454163
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: variable ultra high frequency attenuators
+X 1. 626
+X 2. 3523
+X 3. 5377
+X 4. 11076
+  5. 10758
+X 6. 1759
+X 7. 9564
+X 8. 441
+X 9. 11352
+X 10. 1791
+X 11. 5300
+X 12. 7467
+X 13. 8894
+X 14. 11012
+X 15. 8463
+X 16. 7378
+X 17. 1744
+X 18. 231
+X 19. 3504
+  20. 6899
+X 21. 3064
+X 22. 6877
+  23. 9953
+X 24. 1616
+X 25. 8655
+Average Precision: 0.14347826086956525
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: variable ultra high frequency attenuators
+X 0. 626
+X 1. 3523
+X 2. 5377
+X 3. 11076
+  4. 10758
+X 5. 1759
+X 6. 9564
+X 7. 441
+X 8. 11352
+X 9. 1791
+X 10. 5300
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: variable ultra high frequency attenuators
+X 1. 626
+X 2. 3523
+X 3. 5377
+X 4. 11076
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: variable ultra high frequency attenuators
+X 1. 3523
+X 3. 11076
+X 5. 1759
+X 7. 441
+X 9. 1791
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: faulty operation of feedback time bases
+X 1. 1459
+  2. 7296
+  3. 11044
+X 4. 1192
+X 5. 28
+  6. 7102
+  7. 4414
+X 8. 4740
+X 9. 6149
+  10. 1176
+X 11. 5821
+X 12. 7266
+X 13. 7388
+X 14. 3472
+X 15. 9075
+X 16. 6895
+X 17. 9854
+X 18. 7390
+X 19. 7909
+  20. 9537
+X 21. 2890
+X 22. 536
+X 23. 9686
+X 24. 7932
+  25. 3281
+Average Precision: 0.4740136054421769
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: faulty operation of feedback time bases
+X 0. 1459
+  1. 7296
+  2. 11044
+X 3. 1192
+X 4. 28
+  5. 7102
+  6. 4414
+X 7. 4740
+X 8. 6149
+  9. 1176
+X 10. 5821
+Precision at k: 0.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: faulty operation of feedback time bases
+X 1. 1459
+  Reciprocal rank: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: faulty operation of feedback time bases
+  1. 7296
+X 3. 1192
+  5. 7102
+X 7. 4740
+  9. 1176
+ndcg: 1.6878828028985229
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: variable capacitance amplifiers
+  1. 1607
+  2. 541
+  3. 4108
+X 4. 8835
+  5. 2343
+  6. 9576
+  7. 10065
+  8. 10063
+X 9. 4937
+X 10. 8856
+  11. 9197
+  12. 10512
+  13. 10640
+  14. 2213
+X 15. 9174
+  16. 3988
+X 17. 9564
+X 18. 958
+  19. 2793
+X 20. 6092
+  21. 543
+X 22. 3518
+X 23. 6435
+X 24. 957
+X 25. 529
+Average Precision: 0.8213265118340306
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: variable capacitance amplifiers
+  0. 1607
+  1. 541
+  2. 4108
+X 3. 8835
+  4. 2343
+  5. 9576
+  6. 10065
+  7. 10063
+X 8. 4937
+X 9. 8856
+  10. 9197
+Precision at k: 0.8
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: variable capacitance amplifiers
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: variable capacitance amplifiers
+  1. 541
+X 3. 8835
+  5. 9576
+  7. 10063
+X 9. 8856
+ndcg: 1.7201861405678749
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: transistor sweep generators
+  1. 8558
+  2. 6899
+  3. 7580
+  4. 8017
+X 5. 4598
+X 6. 2321
+X 7. 4177
+  8. 4840
+  9. 9202
+  10. 1481
+X 11. 2962
+X 12. 3591
+X 13. 8456
+X 14. 6404
+  15. 11044
+X 16. 3860
+X 17. 4444
+X 18. 534
+X 19. 772
+X 20. 10022
+X 21. 1862
+X 22. 6355
+X 23. 10829
+X 24. 8412
+  25. 169
+Average Precision: 0.7650000000000001
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: transistor sweep generators
+  0. 8558
+  1. 6899
+  2. 7580
+  3. 8017
+X 4. 4598
+X 5. 2321
+X 6. 4177
+  7. 4840
+  8. 9202
+  9. 1481
+X 10. 2962
+Precision at k: 0.7
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: transistor sweep generators
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: transistor sweep generators
+  1. 6899
+  3. 8017
+X 5. 2321
+  7. 4840
+  9. 1481
+ndcg: 2.1343633289973143
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: advantages of parametric amplifiers
+  1. 4108
+  2. 10763
+  3. 2793
+X 4. 3416
+X 5. 8978
+  6. 540
+X 7. 10638
+X 8. 1200
+X 9. 9315
+X 10. 1497
+X 11. 1204
+X 12. 2651
+X 13. 9094
+X 14. 10209
+X 15. 1754
+X 16. 8975
+  17. 10063
+X 18. 11203
+X 19. 9577
+X 20. 48
+X 21. 440
+X 22. 442
+X 23. 808
+X 24. 1087
+X 25. 1088
+Average Precision: 0.792156862745098
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: advantages of parametric amplifiers
+  0. 4108
+  1. 10763
+  2. 2793
+X 3. 3416
+X 4. 8978
+  5. 540
+X 6. 10638
+X 7. 1200
+X 8. 9315
+X 9. 1497
+X 10. 1204
+Precision at k: 0.4
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: advantages of parametric amplifiers
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: advantages of parametric amplifiers
+  1. 10763
+X 3. 3416
+  5. 540
+X 7. 1200
+X 9. 1497
+ndcg: 1.3868528072345416
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: optimising linear networks
+  1. 8227
+  2. 7269
+  3. 9083
+  4. 11187
+  5. 1321
+X 6. 6759
+  7. 7804
+  8. 8446
+  9. 11059
+  10. 4342
+  11. 275
+  12. 3392
+  13. 10170
+  14. 9542
+  15. 782
+  16. 8821
+  17. 10190
+  18. 935
+  19. 1469
+  20. 2194
+X 21. 2573
+  22. 4196
+  23. 4631
+  24. 8118
+X 25. 417
+Average Precision: 0.9359573362215802
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: optimising linear networks
+  0. 8227
+  1. 7269
+  2. 9083
+  3. 11187
+  4. 1321
+X 5. 6759
+  6. 7804
+  7. 8446
+  8. 11059
+  9. 4342
+  10. 275
+Precision at k: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: optimising linear networks
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: optimising linear networks
+  1. 7269
+  3. 11187
+X 5. 6759
+  7. 8446
+  9. 4342
+ndcg: 2.1343633289973143
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: transistor phase splitting circuits
+  1. 3066
+  2. 5646
+X 3. 1191
+X 4. 2782
+X 5. 3629
+X 6. 1481
+X 7. 961
+X 8. 430
+X 9. 2983
+  10. 7580
+X 11. 8834
+X 12. 9580
+  13. 10319
+  14. 7674
+X 15. 5259
+X 16. 3186
+X 17. 9193
+X 18. 9434
+X 19. 2278
+X 20. 1486
+  21. 9789
+X 22. 7675
+X 23. 5645
+X 24. 6875
+X 25. 9230
+Average Precision: 0.5417582417582417
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: transistor phase splitting circuits
+  0. 3066
+  1. 5646
+X 2. 1191
+X 3. 2782
+X 4. 3629
+X 5. 1481
+X 6. 961
+X 7. 430
+X 8. 2983
+  9. 7580
+X 10. 8834
+Precision at k: 0.3
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: transistor phase splitting circuits
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: transistor phase splitting circuits
+  1. 5646
+X 3. 2782
+X 5. 1481
+X 7. 430
+  9. 7580
+ndcg: 1.3010299956639813
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please supply information pertinent to the use of surface pretreatment to prevent secondary emission effects in valves
+  1. 3318
+  2. 7602
+  3. 6190
+X 4. 7837
+X 5. 9979
+X 6. 4561
+X 7. 4625
+X 8. 8560
+X 9. 8562
+  10. 6568
+X 11. 553
+X 12. 3210
+X 13. 3980
+  14. 2096
+X 15. 4116
+X 16. 6924
+  17. 2724
+  18. 10071
+X 19. 9975
+X 20. 2256
+  21. 450
+  22. 451
+  23. 5294
+X 24. 8596
+  25. 10648
+Average Precision: 0.5603453473855707
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please supply information pertinent to the use of surface pretreatment to prevent secondary emission effects in valves
+  0. 3318
+  1. 7602
+  2. 6190
+X 3. 7837
+X 4. 9979
+X 5. 4561
+X 6. 4625
+X 7. 8560
+X 8. 8562
+  9. 6568
+X 10. 553
+Precision at k: 0.4
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please supply information pertinent to the use of surface pretreatment to prevent secondary emission effects in valves
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: please supply information pertinent to the use of surface pretreatment to prevent secondary emission effects in valves
+  1. 7602
+X 3. 7837
+X 5. 4561
+X 7. 8560
+  9. 6568
+ndcg: 1.3010299956639813
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i wish to have data about the design of mechanical band pass filters for good pass characteristics
+X 1. 9180
+X 2. 4079
+X 3. 3272
+X 4. 9418
+X 5. 5981
+X 6. 5856
+X 7. 10039
+X 8. 4833
+  9. 3970
+X 10. 11038
+X 11. 7572
+X 12. 5250
+X 13. 1319
+  14. 9087
+X 15. 1852
+X 16. 8448
+X 17. 5984
+  18. 9421
+  19. 9183
+X 20. 7086
+X 21. 4725
+X 22. 6088
+X 23. 9550
+X 24. 11312
+X 25. 11311
+Average Precision: 0.15779030910609856
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i wish to have data about the design of mechanical band pass filters for good pass characteristics
+X 0. 9180
+X 1. 4079
+X 2. 3272
+X 3. 9418
+X 4. 5981
+X 5. 5856
+X 6. 10039
+X 7. 4833
+  8. 3970
+X 9. 11038
+X 10. 7572
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i wish to have data about the design of mechanical band pass filters for good pass characteristics
+X 1. 9180
+X 2. 4079
+X 3. 3272
+X 4. 9418
+X 5. 5981
+X 6. 5856
+X 7. 10039
+X 8. 4833
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i wish to have data about the design of mechanical band pass filters for good pass characteristics
+X 1. 4079
+X 3. 9418
+X 5. 5856
+X 7. 4833
+X 9. 11038
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mechanisms whereby transmission at high frequencies is affected by weather and time of day
+X 1. 3743
+X 2. 11424
+X 3. 4705
+  4. 6227
+X 5. 8764
+X 6. 807
+X 7. 2308
+X 8. 1856
+X 9. 9941
+X 10. 382
+X 11. 8190
+X 12. 7205
+X 13. 10224
+X 14. 8155
+X 15. 11076
+X 16. 4075
+X 17. 10784
+X 18. 8169
+X 19. 8843
+X 20. 3121
+X 21. 5891
+X 22. 9421
+X 23. 26
+X 24. 8412
+X 25. 7490
+Average Precision: 0.25
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mechanisms whereby transmission at high frequencies is affected by weather and time of day
+X 0. 3743
+X 1. 11424
+X 2. 4705
+  3. 6227
+X 4. 8764
+X 5. 807
+X 6. 2308
+X 7. 1856
+X 8. 9941
+X 9. 382
+X 10. 8190
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mechanisms whereby transmission at high frequencies is affected by weather and time of day
+X 1. 3743
+X 2. 11424
+X 3. 4705
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: mechanisms whereby transmission at high frequencies is affected by weather and time of day
+X 1. 11424
+  3. 6227
+X 5. 807
+X 7. 1856
+X 9. 382
+ndcg: 0.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: could you please give me articles about the possibilities of getting rectification using metallic devices
+X 1. 7665
+X 2. 3252
+X 3. 74
+X 4. 7653
+X 5. 2945
+X 6. 3291
+X 7. 1156
+X 8. 5488
+X 9. 9870
+X 10. 8986
+X 11. 2804
+X 12. 2680
+X 13. 5111
+X 14. 6368
+X 15. 1162
+X 16. 9009
+X 17. 3493
+X 18. 3348
+X 19. 3356
+X 20. 6560
+X 21. 1466
+X 22. 1348
+X 23. 2189
+X 24. 3413
+X 25. 9200
+Average Precision: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: could you please give me articles about the possibilities of getting rectification using metallic devices
+X 0. 7665
+X 1. 3252
+X 2. 74
+X 3. 7653
+X 4. 2945
+X 5. 3291
+X 6. 1156
+X 7. 5488
+X 8. 9870
+X 9. 8986
+X 10. 2804
+Precision at k: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: could you please give me articles about the possibilities of getting rectification using metallic devices
+X 1. 7665
+X 2. 3252
+X 3. 74
+X 4. 7653
+X 5. 2945
+X 6. 3291
+X 7. 1156
+X 8. 5488
+X 9. 9870
+X 10. 8986
+X 11. 2804
+X 12. 2680
+X 13. 5111
+X 14. 6368
+X 15. 1162
+X 16. 9009
+X 17. 3493
+X 18. 3348
+X 19. 3356
+X 20. 6560
+X 21. 1466
+X 22. 1348
+X 23. 2189
+X 24. 3413
+X 25. 9200
+Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: could you please give me articles about the possibilities of getting rectification using metallic devices
+X 1. 3252
+X 3. 7653
+X 5. 3291
+X 7. 5488
+X 9. 8986
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i wish to calculate the inductance and loss in coils made using printed circuit or other miniaturization ideas. a suitable article please
+  1. 9936
+X 2. 3959
+X 3. 6699
+X 4. 2948
+X 5. 3475
+X 6. 8000
+X 7. 6064
+X 8. 5848
+X 9. 11030
+X 10. 11175
+X 11. 7166
+X 12. 5642
+X 13. 5577
+X 14. 5685
+X 15. 7918
+X 16. 4200
+X 17. 3961
+  18. 11173
+X 19. 7685
+X 20. 9955
+X 21. 4848
+X 22. 4834
+X 23. 5346
+X 24. 2806
+X 25. 421
+Average Precision: 0.5555555555555556
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i wish to calculate the inductance and loss in coils made using printed circuit or other miniaturization ideas. a suitable article please
+  0. 9936
+X 1. 3959
+X 2. 6699
+X 3. 2948
+X 4. 3475
+X 5. 8000
+X 6. 6064
+X 7. 5848
+X 8. 11030
+X 9. 11175
+X 10. 7166
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i wish to calculate the inductance and loss in coils made using printed circuit or other miniaturization ideas. a suitable article please
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: i wish to calculate the inductance and loss in coils made using printed circuit or other miniaturization ideas. a suitable article please
+X 1. 3959
+X 3. 2948
+X 5. 8000
+X 7. 5848
+X 9. 11175
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: analysis of nonlinear systems using phase plane techniques
+  1. 6416
+  2. 4413
+X 3. 1076
+X 4. 5230
+X 5. 3707
+X 6. 7998
+  7. 4346
+X 8. 1641
+  9. 2445
+X 10. 7380
+X 11. 7503
+X 12. 7539
+X 13. 8949
+X 14. 10801
+X 15. 7705
+X 16. 10632
+X 17. 1181
+X 18. 5048
+X 19. 9788
+X 20. 6600
+  21. 11042
+X 22. 6070
+  23. 7340
+X 24. 2322
+X 25. 2288
+Average Precision: 0.5619967793880837
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: analysis of nonlinear systems using phase plane techniques
+  0. 6416
+  1. 4413
+X 2. 1076
+X 3. 5230
+X 4. 3707
+X 5. 7998
+  6. 4346
+X 7. 1641
+  8. 2445
+X 9. 7380
+X 10. 7503
+Precision at k: 0.4
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: analysis of nonlinear systems using phase plane techniques
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: analysis of nonlinear systems using phase plane techniques
+  1. 4413
+X 3. 5230
+X 5. 7998
+X 7. 1641
+X 9. 7380
+ndcg: 1.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: miniature low noise high gain high impedance amplifiers
+X 1. 9807
+X 2. 4624
+  3. 4629
+X 4. 8844
+X 5. 8570
+X 6. 1085
+X 7. 6636
+X 8. 3530
+X 9. 10192
+  10. 1487
+X 11. 6683
+  12. 1627
+  13. 2672
+  14. 8466
+X 15. 9961
+X 16. 6716
+X 17. 2087
+  18. 9191
+X 19. 10033
+X 20. 10625
+  21. 10213
+X 22. 9878
+X 23. 11206
+X 24. 3982
+  25. 810
+Average Precision: 0.3043543956043956
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: miniature low noise high gain high impedance amplifiers
+X 0. 9807
+X 1. 4624
+  2. 4629
+X 3. 8844
+X 4. 8570
+X 5. 1085
+X 6. 6636
+X 7. 3530
+X 8. 10192
+  9. 1487
+X 10. 6683
+Precision at k: 0.2
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: miniature low noise high gain high impedance amplifiers
+X 1. 9807
+X 2. 4624
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: miniature low noise high gain high impedance amplifiers
+X 1. 4624
+X 3. 8844
+X 5. 1085
+X 7. 3530
+  9. 1487
+ndcg: 0.3010299956639812
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: control characteristics of sampling servo systems
+  1. 4412
+  2. 6138
+  3. 7762
+X 4. 6866
+  5. 7647
+  6. 6947
+X 7. 6051
+X 8. 7777
+  9. 129
+X 10. 7342
+X 11. 6332
+X 12. 4186
+X 13. 8959
+X 14. 7541
+X 15. 9161
+X 16. 1735
+X 17. 6670
+X 18. 7542
+X 19. 4414
+X 20. 7775
+  21. 9537
+X 22. 2168
+X 23. 8211
+X 24. 502
+X 25. 9788
+Average Precision: 0.8047619047619047
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: control characteristics of sampling servo systems
+  0. 4412
+  1. 6138
+  2. 7762
+X 3. 6866
+  4. 7647
+  5. 6947
+X 6. 6051
+X 7. 7777
+  8. 129
+X 9. 7342
+X 10. 6332
+Precision at k: 0.6
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: control characteristics of sampling servo systems
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: control characteristics of sampling servo systems
+  1. 6138
+X 3. 6866
+  5. 6947
+X 7. 7777
+X 9. 7342
+ndcg: 1.3868528072345416
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: power spectral density distribution obtained using analogue techniques
+X 1. 10386
+X 2. 3043
+X 3. 9588
+X 4. 5132
+X 5. 145
+X 6. 3718
+X 7. 1993
+X 8. 5832
+X 9. 3845
+X 10. 5332
+X 11. 706
+X 12. 5448
+X 13. 933
+X 14. 11126
+X 15. 9071
+X 16. 295
+X 17. 8770
+X 18. 11372
+X 19. 488
+X 20. 9205
+X 21. 4046
+X 22. 4995
+X 23. 3448
+X 24. 5917
+X 25. 2673
+Average Precision: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: power spectral density distribution obtained using analogue techniques
+X 0. 10386
+X 1. 3043
+X 2. 9588
+X 3. 5132
+X 4. 145
+X 5. 3718
+X 6. 1993
+X 7. 5832
+X 8. 3845
+X 9. 5332
+X 10. 706
+Precision at k: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: power spectral density distribution obtained using analogue techniques
+X 1. 10386
+X 2. 3043
+X 3. 9588
+X 4. 5132
+X 5. 145
+X 6. 3718
+X 7. 1993
+X 8. 5832
+X 9. 3845
+X 10. 5332
+X 11. 706
+X 12. 5448
+X 13. 933
+X 14. 11126
+X 15. 9071
+X 16. 295
+X 17. 8770
+X 18. 11372
+X 19. 488
+X 20. 9205
+X 21. 4046
+X 22. 4995
+X 23. 3448
+X 24. 5917
+X 25. 2673
+Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: power spectral density distribution obtained using analogue techniques
+X 1. 3043
+X 3. 5132
+X 5. 3718
+X 7. 5832
+X 9. 5332
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: high stability high input impedance transistorised analogue amplifier
+X 1. 6683
+X 2. 3530
+X 3. 11052
+X 4. 3982
+X 5. 8844
+X 6. 4451
+X 7. 1485
+X 8. 8328
+  9. 2706
+X 10. 4353
+X 11. 7194
+X 12. 522
+  13. 8025
+X 14. 9878
+X 15. 3639
+X 16. 5165
+X 17. 2171
+X 18. 3628
+X 19. 6081
+X 20. 3755
+X 21. 1165
+X 22. 5132
+X 23. 9565
+X 24. 799
+X 25. 4617
+Average Precision: 0.13247863247863248
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: high stability high input impedance transistorised analogue amplifier
+X 0. 6683
+X 1. 3530
+X 2. 11052
+X 3. 3982
+X 4. 8844
+X 5. 4451
+X 6. 1485
+X 7. 8328
+  8. 2706
+X 9. 4353
+X 10. 7194
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: high stability high input impedance transistorised analogue amplifier
+X 1. 6683
+X 2. 3530
+X 3. 11052
+X 4. 3982
+X 5. 8844
+X 6. 4451
+X 7. 1485
+X 8. 8328
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: high stability high input impedance transistorised analogue amplifier
+X 1. 3530
+X 3. 3982
+X 5. 4451
+X 7. 8328
+X 9. 4353
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: electronic specific heat of a superconductor showing a discontinuity at the superconducting critical temperature
+  1. 3314
+X 2. 10744
+X 3. 3665
+X 4. 2356
+X 5. 9102
+X 6. 5291
+X 7. 11297
+X 8. 3202
+X 9. 4970
+X 10. 10908
+X 11. 5234
+X 12. 9332
+X 13. 834
+  14. 6931
+X 15. 1764
+X 16. 6568
+X 17. 2477
+X 18. 2530
+X 19. 1434
+X 20. 6297
+X 21. 7324
+X 22. 7437
+X 23. 2836
+X 24. 10642
+  25. 636
+Average Precision: 0.42095238095238097
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: electronic specific heat of a superconductor showing a discontinuity at the superconducting critical temperature
+  0. 3314
+X 1. 10744
+X 2. 3665
+X 3. 2356
+X 4. 9102
+X 5. 5291
+X 6. 11297
+X 7. 3202
+X 8. 4970
+X 9. 10908
+X 10. 5234
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: electronic specific heat of a superconductor showing a discontinuity at the superconducting critical temperature
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: electronic specific heat of a superconductor showing a discontinuity at the superconducting critical temperature
+X 1. 10744
+X 3. 2356
+X 5. 5291
+X 7. 3202
+X 9. 10908
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: an abstract on the field distribution surrounding a charged thin circular disc resting on an infinite dielectric slab
+X 1. 3548
+X 2. 9458
+X 3. 10806
+X 4. 6482
+X 5. 10068
+X 6. 9600
+X 7. 11214
+  8. 7326
+X 9. 3994
+X 10. 7831
+X 11. 8225
+X 12. 8127
+X 13. 4371
+X 14. 9823
+X 15. 4737
+  16. 2103
+X 17. 2105
+X 18. 849
+X 19. 8862
+X 20. 8038
+  21. 8579
+X 22. 5380
+X 23. 5293
+X 24. 2837
+X 25. 6276
+Average Precision: 0.13095238095238096
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: an abstract on the field distribution surrounding a charged thin circular disc resting on an infinite dielectric slab
+X 0. 3548
+X 1. 9458
+X 2. 10806
+X 3. 6482
+X 4. 10068
+X 5. 9600
+X 6. 11214
+  7. 7326
+X 8. 3994
+X 9. 7831
+X 10. 8225
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: an abstract on the field distribution surrounding a charged thin circular disc resting on an infinite dielectric slab
+X 1. 3548
+X 2. 9458
+X 3. 10806
+X 4. 6482
+X 5. 10068
+X 6. 9600
+X 7. 11214
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: an abstract on the field distribution surrounding a charged thin circular disc resting on an infinite dielectric slab
+X 1. 9458
+X 3. 6482
+X 5. 9600
+  7. 7326
+X 9. 7831
+ndcg: 0.3333333333333333
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: tunnel diode construction and its electrical characteristics explained
+X 1. 944
+X 2. 10902
+X 3. 3937
+X 4. 2287
+X 5. 11291
+X 6. 11206
+X 7. 10185
+X 8. 794
+X 9. 10155
+X 10. 10212
+  11. 10889
+X 12. 1090
+X 13. 11178
+X 14. 1074
+X 15. 2694
+X 16. 9078
+X 17. 10051
+X 18. 11336
+X 19. 9320
+X 20. 10479
+X 21. 10176
+X 22. 10184
+X 23. 10496
+  24. 10892
+X 25. 9440
+Average Precision: 0.08712121212121213
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: tunnel diode construction and its electrical characteristics explained
+X 0. 944
+X 1. 10902
+X 2. 3937
+X 3. 2287
+X 4. 11291
+X 5. 11206
+X 6. 10185
+X 7. 794
+X 8. 10155
+X 9. 10212
+  10. 10889
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: tunnel diode construction and its electrical characteristics explained
+X 1. 944
+X 2. 10902
+X 3. 3937
+X 4. 2287
+X 5. 11291
+X 6. 11206
+X 7. 10185
+X 8. 794
+X 9. 10155
+X 10. 10212
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: tunnel diode construction and its electrical characteristics explained
+X 1. 10902
+X 3. 2287
+X 5. 11206
+X 7. 794
+X 9. 10212
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: electronic density of states at the surface of a semiconductor compared with that at depth
+  1. 7011
+X 2. 6190
+X 3. 4458
+  4. 1348
+  5. 6581
+  6. 180
+  7. 4115
+X 8. 9309
+X 9. 3310
+X 10. 11341
+X 11. 5284
+X 12. 1785
+X 13. 3308
+X 14. 4760
+X 15. 1114
+X 16. 7207
+X 17. 3911
+X 18. 10090
+X 19. 9188
+X 20. 8388
+X 21. 2385
+X 22. 8985
+X 23. 10618
+X 24. 1760
+  25. 9204
+Average Precision: 0.6201587301587302
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: electronic density of states at the surface of a semiconductor compared with that at depth
+  0. 7011
+X 1. 6190
+X 2. 4458
+  3. 1348
+  4. 6581
+  5. 180
+  6. 4115
+X 7. 9309
+X 8. 3310
+X 9. 11341
+X 10. 5284
+Precision at k: 0.5
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: electronic density of states at the surface of a semiconductor compared with that at depth
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: electronic density of states at the surface of a semiconductor compared with that at depth
+X 1. 6190
+  3. 1348
+  5. 180
+X 7. 9309
+X 9. 11341
+ndcg: 0.8868528072345416
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: resistivity of metallic thin films related to surface roughness
+  1. 6581
+  2. 7594
+X 3. 9991
+  4. 9224
+X 5. 7603
+  6. 6182
+  7. 2854
+  8. 4751
+X 9. 6179
+X 10. 3997
+X 11. 1531
+X 12. 4673
+X 13. 9717
+  14. 6287
+X 15. 4014
+X 16. 1992
+X 17. 9864
+  18. 1348
+X 19. 2106
+X 20. 4249
+X 21. 10614
+X 22. 10023
+X 23. 9484
+X 24. 6840
+X 25. 8988
+Average Precision: 0.7281746031746031
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: resistivity of metallic thin films related to surface roughness
+  0. 6581
+  1. 7594
+X 2. 9991
+  3. 9224
+X 4. 7603
+  5. 6182
+  6. 2854
+  7. 4751
+X 8. 6179
+X 9. 3997
+X 10. 1531
+Precision at k: 0.6
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: resistivity of metallic thin films related to surface roughness
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: resistivity of metallic thin films related to surface roughness
+  1. 7594
+  3. 9224
+  5. 6182
+  7. 4751
+X 9. 3997
+ndcg: 2.220186140567875
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the phenomenon of radiation caused by charged particles moving in varying electric and magnetic fields
+X 1. 1379
+X 2. 8714
+  3. 8381
+X 4. 8873
+X 5. 8724
+X 6. 10088
+X 7. 11209
+X 8. 10668
+X 9. 6640
+X 10. 4237
+X 11. 3685
+X 12. 8874
+  13. 4978
+X 14. 313
+X 15. 2632
+X 16. 2093
+X 17. 3571
+X 18. 1215
+X 19. 9673
+X 20. 9333
+X 21. 1380
+X 22. 7065
+X 23. 2838
+X 24. 2850
+X 25. 6484
+Average Precision: 0.24358974358974358
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the phenomenon of radiation caused by charged particles moving in varying electric and magnetic fields
+X 0. 1379
+X 1. 8714
+  2. 8381
+X 3. 8873
+X 4. 8724
+X 5. 10088
+X 6. 11209
+X 7. 10668
+X 8. 6640
+X 9. 4237
+X 10. 3685
+Precision at k: 0.1
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the phenomenon of radiation caused by charged particles moving in varying electric and magnetic fields
+X 1. 1379
+X 2. 8714
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: the phenomenon of radiation caused by charged particles moving in varying electric and magnetic fields
+X 1. 8714
+X 3. 8873
+X 5. 10088
+X 7. 10668
+X 9. 4237
+ndcg: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: high frequency oscillators using transistors theoretical treatment and practical circuit details
+X 1. 2964
+X 2. 151
+X 3. 9089
+X 4. 1976
+X 5. 2696
+  6. 443
+X 7. 9108
+  8. 6610
+  9. 3860
+X 10. 7802
+X 11. 6609
+X 12. 3537
+X 13. 533
+X 14. 10469
+  15. 7999
+  16. 9429
+X 17. 3381
+X 18. 1183
+  19. 8834
+X 20. 2199
+X 21. 3256
+X 22. 8468
+  23. 8459
+X 24. 8833
+  25. 4442
+Average Precision: 0.2836629958047292
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: high frequency oscillators using transistors theoretical treatment and practical circuit details
+X 0. 2964
+X 1. 151
+X 2. 9089
+X 3. 1976
+X 4. 2696
+  5. 443
+X 6. 9108
+  7. 6610
+  8. 3860
+X 9. 7802
+X 10. 6609
+Precision at k: 0.3
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: high frequency oscillators using transistors theoretical treatment and practical circuit details
+X 1. 2964
+X 2. 151
+X 3. 9089
+X 4. 1976
+X 5. 2696
+  Reciprocal rank: 0.0
+
+Scoring documents with BM25(k1=1.2,b=0.75)
+
+Query: high frequency oscillators using transistors theoretical treatment and practical circuit details
+X 1. 151
+X 3. 1976
+  5. 443
+  7. 6610
+X 9. 7802
+ndcg: 0.7201861405678749
+
+MAP: 0.5054062860928417
+
+P@10: 0.3645161290322582
+
+MRR: 0.16129032258064516
+
+NDCG: 0.972563766260341
